@@ -1,0 +1,68 @@
+.title {
+  text-align: center;
+}
+
+.home {
+  margin: 0 auto;
+  max-width: 800px;
+  text-align: left;
+  padding: 10px;
+  position: relative;
+}
+
+.updated {
+  border: 1px solid rgba(0,0,0,.15);
+  border-radius: .25rem;
+  padding: 10px;
+  text-align: center;
+}
+
+.unitName {
+  display: block;
+}
+
+.separator {
+  margin-bottom: 8px;
+  margin-top: 8px;
+}
+
+.buy_coffee {
+  height: 30px;
+  margin-bottom: 5px;
+}
+
+.right_zone {
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.youtube_video {
+  width: 175px;
+  height: 100px;
+}
+
+.youtube_block {
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+
+
+.itemName {
+  font-weight: bold;
+  margin-left: 10px
+}
+
+.itemsTable {
+  width: 800px;
+  margin-bottom: 20px;
+  border: 1px solid rgba(0,0,0,.15);
+  border-radius: .25rem;
+  text-align: center
+}
+
+.itemsCol {
+  width: 200px;
+  border: 1px solid rgba(0,0,0,.15);
+}

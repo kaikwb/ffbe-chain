@@ -1,0 +1,29 @@
+.footer {
+  margin-top: 20px;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+}
+
+hr {
+  margin-bottom: 0;
+  max-width: 700px;
+}
+
+.marginRight {
+  margin-right: 10px;
+}
+
+.textFooter {
+  margin: 0;
+  height: 30px;
+}
+
+.red {
+  color: red;
+}
+
+.grey {
+  color: #636c72;
+}

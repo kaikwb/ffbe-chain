@@ -1,0 +1,16 @@
+.col-unit {
+  width: 200px;
+}
+
+.families {
+  max-width: 800px;
+  margin: auto;
+}
+
+.title {
+  margin-top: 20px;
+}
+
+.title_row {
+  background-color: #ffffff !important;
+}

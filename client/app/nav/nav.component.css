@@ -1,0 +1,122 @@
+.navbar {
+  flex-direction: row;
+}
+
+.centerNav {
+  display: inline-flex;
+  margin: 0 auto;
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+.nav-link {
+  display: inline-block;
+  padding-right: .5rem;
+  padding-left: .5rem;
+}
+
+.nav-link.active {
+  color: rgba(255,255,255,.7) !important;
+}
+
+.btnMenu {
+  color: #464a4c;
+  height: 35px;
+  cursor: pointer;
+}
+
+.navButton {
+  display: none;
+}
+
+.navLinkMobile {
+  display: list-item !important;
+}
+
+.fixed-top-right {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 1100;
+}
+
+.flag {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background: url('../../assets/nav/flags.png') no-repeat;
+}
+
+.flag.flag-tw {
+    background-position: -48px -24px;
+}
+
+.flag.flag-es {
+    background-position: -24px 0;
+}
+
+.flag.flag-gb {
+    background-position: 0 -24px;
+}
+
+.flag.flag-fr {
+    background-position: -48px 0;
+}
+
+.flag.flag-de {
+    background-position: 0 0;
+}
+
+.flag.flag-kr {
+    background-position: -24px -24px;
+}
+
+.nav-link-lang {
+  display: none;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.separator {
+  margin-right: 5px;
+}
+
+.lang {
+  margin-top: 6px;
+}
+
+.menuDisabled {
+  background-color: #fff;
+  border-color: #ccc;
+  opacity: .65;
+}
+
+@media (max-width: 500px) {
+  .navButton {
+    display: block;
+  }
+
+  .centerNav {
+    display: block;
+  }
+
+  .nav-item {
+    display: none;
+  }
+
+  .nav-link {
+    display: block;
+  }
+
+  .navbar-brand {
+    margin-right: 0;
+  }
+
+  .lang {
+    display: none;
+  }
+}
