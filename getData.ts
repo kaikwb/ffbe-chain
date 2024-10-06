@@ -1,6 +1,5 @@
 import { HttpClient } from '@angular/common/http';
 const https = require('https');
-import simpleGit, { SimpleGit, SimpleGitOptions } from 'simple-git';
 
 export class JsonService {
   ffbeChainUnits = [];
@@ -215,19 +214,6 @@ export class JsonService {
       this.generateFamilies();
       this.fsSync.writeFileSync(this.path.resolve(__dirname, 'client/app/data/families.json'), JSON.stringify(this.families, null, 2));
 
-      const gitOptions: Partial<SimpleGitOptions> = {
-        baseDir: '.',
-        binary: 'git',
-        maxConcurrentProcesses: 6
-      };
-      const git: SimpleGit = simpleGit(gitOptions);
-      await git.addConfig('user.email', 'bahamut1221@gmail.com', false, 'global');
-      await git.addConfig('user.name', 'Bismark', false, 'global');
-      await git.pull();
-      await git.add('.');
-      await git.commit(new Date().toISOString().replace(/T/, ' ').replace(/\..+/, ''));
-      await git.push('origin', 'master');
-
       process.exit(0);
     });
   }
@@ -243,9 +229,8 @@ export class JsonService {
       }
 
       if (this.units[unitId].entries) {
-        let entries = Object.keys(this.units[unitId].entries);
-        if (this.lbs[entries[entries.length - 1]]){
-          this.addSkill(id, this.lbs[entries[entries.length - 1]], entries[entries.length - 1], this.units[unitId].rarity_max, 0, true);
+        if (this.lbs[unitId]){
+          this.addSkill(id, this.lbs[unitId], unitId, this.units[unitId].rarity_max, 0, true);
         }
       }
     });
