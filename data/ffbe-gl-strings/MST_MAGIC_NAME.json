@@ -1,0 +1,4782 @@
+{
+    "10010": [
+        "Libra",
+        "窺伺探測",
+        "라이브라",
+        "Acuité",
+        "Analyse",
+        "Libra",
+        "Libra",
+        "Libra\u001a"
+    ],
+    "10020": [
+        "Cure",
+        "療傷",
+        "케알",
+        "Soin",
+        "Vita",
+        "Cura",
+        "Cure",
+        "Cure\u001a"
+    ],
+    "10030": [
+        "Blindna",
+        "復明",
+        "블라나",
+        "Vision",
+        "Lux",
+        "Luz",
+        "Blindna",
+        "Blindna\u001a"
+    ],
+    "10040": [
+        "Vox",
+        "解咒",
+        "보컬",
+        "Voix",
+        "Vox",
+        "Vocal",
+        "Vox",
+        "Vox\u001a"
+    ],
+    "10050": [
+        "Poisona",
+        "解毒",
+        "포이즈나",
+        "Sérum",
+        "Poisona",
+        "Pura",
+        "Poisona",
+        "Poisona\u001a"
+    ],
+    "10060": [
+        "Banish",
+        "放逐",
+        "배니시",
+        "Bannissement",
+        "Verbannung",
+        "Tenue",
+        "Banish",
+        "Banish\u001a"
+    ],
+    "10070": [
+        "Cura",
+        "中療傷",
+        "케알라",
+        "Soin +",
+        "Vitra",
+        "Cura+",
+        "Cura",
+        "Cura\u001a"
+    ],
+    "10080": [
+        "Paralyna",
+        "解麻",
+        "파라나",
+        "Mouvement",
+        "Paralyna",
+        "Paralina",
+        "Paralyna",
+        "Paralyna\u001a"
+    ],
+    "10090": [
+        "Stona",
+        "解石",
+        "스토나",
+        "Chair",
+        "Perseus",
+        "Relax",
+        "Stona",
+        "Stona\u001a"
+    ],
+    "10100": [
+        "Raise",
+        "復活",
+        "레이즈",
+        "Vie",
+        "Engel",
+        "Lázaro",
+        "Raise",
+        "Raise\u001a"
+    ],
+    "10110": [
+        "Esuna",
+        "復原",
+        "에스나",
+        "Guérison",
+        "Medica",
+        "Esna",
+        "Esuna",
+        "Esuna\u001a"
+    ],
+    "10120": [
+        "Regen",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "10121": [
+        "Regen (Auto)",
+        "再生（自動）",
+        "리제네(AUTO용)",
+        "Récup (auto)",
+        "Auto-Regena",
+        "Revitalia (Auto)",
+        "Regen (Auto)",
+        "Regen\u001a \u001a(\u001aAuto\u001a)\u001a"
+    ],
+    "10122": [
+        "Regen",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "10123": [
+        "Regen",
+        "再生（漆黑）",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "10124": [
+        "Regen",
+        "再生（淨水治療）",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "10125": [
+        "Regen",
+        "再生（王族戒指）",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "10126": [
+        "Regen (Lvl 1)",
+        "再生(Lv.1)",
+        "리제네(Lv.1)",
+        "Récup",
+        "Regena (St. 1)",
+        "Revitalia (Nv. 1)",
+        "Regen (Lvl 1)",
+        "Regen\u001a \u001a(\u001aLv\u001a.\u001a \u001a1\u001a)\u001a"
+    ],
+    "10127": [
+        "Regen (Lvl 2)",
+        "再生(Lv.2)",
+        "리제네(Lv.2)",
+        "Récup",
+        "Regena (St. 2)",
+        "Revitalia (Nv. 2)",
+        "Regen (Lvl 2)",
+        "Regen\u001a \u001a(\u001aLv\u001a.\u001a \u001a2\u001a)\u001a"
+    ],
+    "10128": [
+        "Regen (Lvl 3)",
+        "再生(Lv.3)",
+        "리제네(Lv.3)",
+        "Récup",
+        "Regena (St. 3)",
+        "Revitalia (Nv. 3)",
+        "Regen (Lvl 3)",
+        "Regen\u001a \u001a(\u001aLv\u001a.\u001a \u001a3\u001a)\u001a"
+    ],
+    "10129": [
+        "Regen (Lvl 4)",
+        "再生(Lv.4)",
+        "리제네(Lv.4)",
+        "Récup",
+        "Regena (St. 4)",
+        "Revitalia (Nv. 4)",
+        "Regen (Lvl 4)",
+        "Regen\u001a \u001a(\u001aLv\u001a.\u001a \u001a4\u001a)\u001a"
+    ],
+    "10130": [
+        "Dispel",
+        "驅魔",
+        "디스펠",
+        "Dissipation",
+        "Bann",
+        "Antimagia",
+        "Dispel",
+        "Dispel\u001a"
+    ],
+    "10140": [
+        "Cleanse",
+        "治病",
+        "리부트",
+        "Antivirus",
+        "Avir",
+        "Asepsis",
+        "Cleanse",
+        "Cleanse\u001a"
+    ],
+    "10150": [
+        "Curada",
+        "齊療傷",
+        "케알다",
+        "Soin X",
+        "Vigra",
+        "Cura++",
+        "Curada",
+        "Curada\u001a"
+    ],
+    "10160": [
+        "Curaga",
+        "超療傷",
+        "케알가",
+        "Soin Max",
+        "Vitaga",
+        "Cura+++",
+        "Curaga",
+        "Curaga\u001a"
+    ],
+    "10170": [
+        "Banishga",
+        "強放逐",
+        "배니시가",
+        "Bannissement X",
+        "Exkommunikation",
+        "Tenue++",
+        "Banishga",
+        "Banishga\u001a"
+    ],
+    "10180": [
+        "Full-Life",
+        "大復活",
+        "어레이즈",
+        "Vie Max",
+        "Erzengel",
+        "Lázaro+",
+        "Full-Life",
+        "Full-Life\u001a"
+    ],
+    "10190": [
+        "Esunaga",
+        "強復原",
+        "에스나가",
+        "Guérison X",
+        "Esunaga",
+        "Esna+",
+        "Esunaga",
+        "Esunaga\u001a"
+    ],
+    "10200": [
+        "Dispelga",
+        "強驅魔",
+        "디스펠가",
+        "Dissipation X",
+        "Bannga",
+        "Antimagia++",
+        "Dispelga",
+        "Dispelga\u001a"
+    ],
+    "10210": [
+        "Holy",
+        "神聖",
+        "홀리",
+        "Sidéral",
+        "Sanctus",
+        "Sanctus",
+        "Holy",
+        "Holy\u001a"
+    ],
+    "10220": [
+        "Full Cure",
+        "痊癒",
+        "풀 케어",
+        "Soin total",
+        "Volle Heilung",
+        "Cura total",
+        "Full Cure",
+        "Full\u001a \u001aCure\u001a"
+    ],
+    "10230": [
+        "Reraise",
+        "重生",
+        "리레이즈",
+        "Auréole",
+        "Schutzengel",
+        "AutoLázaro",
+        "Reraise",
+        "Reraise\u001a"
+    ],
+    "10240": [
+        "Dia",
+        "淨化",
+        "디아",
+        "Lumen",
+        "Dia",
+        "Día",
+        "Dia",
+        "Dia\u001a"
+    ],
+    "10250": [
+        "Diara",
+        "中淨化",
+        "디아라",
+        "Lumen +",
+        "Diara",
+        "Día+",
+        "Diara",
+        "Diara\u001a"
+    ],
+    "10260": [
+        "Diaga",
+        "大淨化",
+        "디아가",
+        "Lumen X",
+        "Diaga",
+        "Día++",
+        "Diaga",
+        "Diaga\u001a"
+    ],
+    "10270": [
+        "Diaja",
+        "強淨化",
+        "디아쟈",
+        "Lumen max",
+        "Diaja",
+        "Día+++",
+        "Diaja",
+        "Diaja\u001a"
+    ],
+    "10280": [
+        "Holy (FFIX)",
+        "神聖(FFIX)",
+        "홀리(FFIX)",
+        "Sidéral (FFIX)",
+        "Sanctus (FFIX)",
+        "Sanctus (FFIX)",
+        "Holy (FFIX)",
+        "Holy\u001a \u001a(\u001aFFIX\u001a)\u001a"
+    ],
+    "10290": [
+        "Curaja",
+        "聖療",
+        "케알쟈",
+        "Giga Soin",
+        "Vitaja",
+        "Cura++++",
+        "Curaja",
+        "Curaja\u001a"
+    ],
+    "10300": [
+        "Debrana",
+        "解弱攻",
+        "디브라나",
+        "Contre-bravoure",
+        "Decoura",
+        "Antiflaqueza",
+        "Debrana",
+        "Debrana\u001a"
+    ],
+    "10310": [
+        "Debranaga",
+        "廣解弱攻",
+        "디브라나가",
+        "Contre-bravoure X",
+        "Decouranaga",
+        "Antiflaqueza+",
+        "Debranaga",
+        "Debranaga\u001a"
+    ],
+    "10320": [
+        "Deprona",
+        "解弱守",
+        "디프로나",
+        "Contre-bouclier",
+        "Deprotega",
+        "Antifrágil",
+        "Deprona",
+        "Deprona\u001a"
+    ],
+    "10330": [
+        "Depronaga",
+        "廣解弱守",
+        "디프로나가",
+        "Contre-bouclier X",
+        "Deprotenaga",
+        "Antifrágil+",
+        "Depronaga",
+        "Depronaga\u001a"
+    ],
+    "10340": [
+        "Defaithna",
+        "解弱魔",
+        "디페이스나",
+        "Contre-foi",
+        "Deener",
+        "Antinorma",
+        "Defaithna",
+        "Defaithna\u001a"
+    ],
+    "10350": [
+        "Defaithnaga",
+        "廣解弱魔",
+        "디페이스나가",
+        "Contre-foi X",
+        "Deenaga",
+        "Antinorma+",
+        "Defaithnaga",
+        "Defaithnaga\u001a"
+    ],
+    "10360": [
+        "Deshellna",
+        "解弱心",
+        "디셸나",
+        "Contre-barrière",
+        "Deshellna",
+        "Antiabatimiento",
+        "Deshellna",
+        "Deshellna\u001a"
+    ],
+    "10370": [
+        "Deshellnaga",
+        "廣解弱心",
+        "디셸나가",
+        "Contre-barrière X",
+        "Deshellnaga",
+        "Antiabatimiento+",
+        "Deshellnaga",
+        "Deshellnaga\u001a"
+    ],
+    "10380": [
+        "Refresh",
+        "精神振奮",
+        "리프레쉬",
+        "Recharge",
+        "Erfrischen",
+        "Restauración",
+        "Refresh",
+        "Refresh\u001a"
+    ],
+    "10390": [
+        "Heal",
+        "治癒",
+        "힐",
+        "Grâce",
+        "Heilung",
+        "Sana",
+        "Heal",
+        "Heal\u001a"
+    ],
+    "10400": [
+        "Regen (Zile Awakening +1)",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen (Zile Bangkit +1)",
+        "Regen\u001a \u001a(\u001aสำหรับ\u001a \u001aZile\u001a \u001aร่าง\u001aปลุก\u001aพลัง\u001a \u001a+\u001a1\u001a)\u001a"
+    ],
+    "10401": [
+        "Regen (Zile Awakening +2)",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen (Zile Bangkit +2)",
+        "Regen\u001a \u001a(\u001aสำหรับ\u001a \u001aZile\u001a \u001aร่าง\u001aปลุก\u001aพลัง\u001a \u001a+\u001a2\u001a)\u001a"
+    ],
+    "10402": [
+        "Regen",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "10403": [
+        "Regen",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "10405": [
+        "Regen",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "10406": [
+        "Regen",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "10407": [
+        "Regen",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "10408": [
+        "Regen",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "10409": [
+        "Regen",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "10410": [
+        "Regen",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "10411": [
+        "Regen (Chrono Cross)",
+        "再生(CHRONO CROSS)",
+        "리제네(Chrono Cross)",
+        "Récup (Chrono Cross)",
+        "Regena (Chrono Cross)",
+        "Revitalia (Chrono Cross)",
+        "Regen (Chrono Cross)",
+        "Regen\u001a \u001a(\u001aChrono\u001a \u001aCross\u001a)\u001a"
+    ],
+    "10412": [
+        "Regen",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "10500": [
+        "Full-Life II",
+        "大復活II",
+        "어레이즈 II",
+        "Vie Max II",
+        "Erzengel II",
+        "Lázaro+ II",
+        "Full-Life II",
+        "Full-Life\u001a \u001aII\u001a"
+    ],
+    "10510": [
+        "Reraise II",
+        "重生II",
+        "리레이즈 II",
+        "Auréole II",
+        "Schutzengel II",
+        "AutoLázaro II",
+        "Reraise II",
+        "Reraise\u001a \u001aII\u001a"
+    ],
+    "10520": [
+        "Esunaga II",
+        "強復原II",
+        "에스나가",
+        "Guérison X II",
+        "Esunaga II",
+        "Esna+ II",
+        "Esunaga",
+        "Esunaga\u001a \u001aII\u001a"
+    ],
+    "20010": [
+        "Fire",
+        "火焰",
+        "파이어",
+        "Feu",
+        "Feuer",
+        "Piro",
+        "Fire",
+        "Fire\u001a"
+    ],
+    "20020": [
+        "Blizzard",
+        "暴雪",
+        "블리자드",
+        "Glace",
+        "Eis",
+        "Hielo",
+        "Blizzard",
+        "Blizzard\u001a"
+    ],
+    "20030": [
+        "Thunder",
+        "雷電",
+        "선더",
+        "Foudre",
+        "Blitz",
+        "Electro",
+        "Thunder",
+        "Thunder\u001a"
+    ],
+    "20040": [
+        "Water",
+        "流水",
+        "워터",
+        "Eau",
+        "Aqua",
+        "Aqua",
+        "Water",
+        "Water\u001a"
+    ],
+    "20050": [
+        "Aero",
+        "勁風",
+        "에어로",
+        "Vent",
+        "Aero",
+        "Aero",
+        "Aero",
+        "Aero\u001a"
+    ],
+    "20060": [
+        "Stone",
+        "落石",
+        "스톤",
+        "Terre",
+        "Terra",
+        "Piedra",
+        "Stone",
+        "Stone\u001a"
+    ],
+    "20070": [
+        "Bio",
+        "毒化",
+        "바이오",
+        "Toxine",
+        "Bio",
+        "Bio",
+        "Bio",
+        "Bio\u001a"
+    ],
+    "20080": [
+        "Fira",
+        "中火焰",
+        "파이라",
+        "Feu +",
+        "Feura",
+        "Piro+",
+        "Fira",
+        "Fira\u001a"
+    ],
+    "20090": [
+        "Blizzara",
+        "中暴雪",
+        "블리자라",
+        "Glace +",
+        "Eisra",
+        "Hielo+",
+        "Blizzara",
+        "Blizzara\u001a"
+    ],
+    "20100": [
+        "Thundara",
+        "中雷電",
+        "선더라",
+        "Foudre +",
+        "Blitzra",
+        "Electro+",
+        "Thundara",
+        "Thundara\u001a"
+    ],
+    "20110": [
+        "Watera",
+        "中流水",
+        "워터라",
+        "Eau +",
+        "Aquara",
+        "Aqua+",
+        "Watera",
+        "Watera\u001a"
+    ],
+    "20120": [
+        "Aerora",
+        "中勁風",
+        "에어로라",
+        "Vent +",
+        "Aerora",
+        "Aero+",
+        "Aerora",
+        "Aerora\u001a"
+    ],
+    "20130": [
+        "Stonra",
+        "中落石",
+        "스톤라",
+        "Terre +",
+        "Terrara",
+        "Piedra+",
+        "Stonra",
+        "Stonra\u001a"
+    ],
+    "20150": [
+        "Gravity",
+        "重力",
+        "그라비데",
+        "Gravité",
+        "Gravitas",
+        "Gravedad",
+        "Gravity",
+        "Gravity\u001a"
+    ],
+    "20160": [
+        "Drain",
+        "吸血",
+        "드레인",
+        "Saignée",
+        "Subvita",
+        "Drenaje",
+        "Drain",
+        "Drain\u001a"
+    ],
+    "20170": [
+        "Comet",
+        "彗星",
+        "코멧",
+        "Comète",
+        "Komet",
+        "Cometa",
+        "Comet",
+        "Comet\u001a"
+    ],
+    "20171": [
+        "Bluff (Comet)",
+        "逞強（彗星）",
+        "강한 척하기[코멧]",
+        "Bluff (Comète)",
+        "Bluff (Komet)",
+        "Farol (Cometa)",
+        "Tipuan (Comet)",
+        "คุยโม้\u001a \u001a(\u001aดาวหาง\u001a)\u001a"
+    ],
+    "20180": [
+        "Biora",
+        "猛毒化",
+        "바이오라",
+        "Toxine +",
+        "Biora",
+        "Bio+",
+        "Biora",
+        "Biora\u001a"
+    ],
+    "20190": [
+        "Osmose",
+        "攝魔",
+        "아스필",
+        "Aspire",
+        "Osmose",
+        "Aspir",
+        "Osmose",
+        "Osmose\u001a"
+    ],
+    "20200": [
+        "Firaga",
+        "大火焰",
+        "파이가",
+        "Feu X",
+        "Feuga",
+        "Piro++",
+        "Firaga",
+        "Firaga\u001a"
+    ],
+    "20210": [
+        "Blizzaga",
+        "大暴雪",
+        "블리자가",
+        "Glace X",
+        "Eisga",
+        "Hielo++",
+        "Blizzaga",
+        "Blizzaga\u001a"
+    ],
+    "20220": [
+        "Thundaga",
+        "大雷電",
+        "선더가",
+        "Foudre X",
+        "Blitzga",
+        "Electro++",
+        "Thundaga",
+        "Thundaga\u001a"
+    ],
+    "20230": [
+        "Waterga",
+        "大流水",
+        "워터가",
+        "Eau X",
+        "Aquaga",
+        "Aqua++",
+        "Waterga",
+        "Waterga\u001a"
+    ],
+    "20240": [
+        "Aeroga",
+        "大勁風",
+        "에어로가",
+        "Vent X",
+        "Aeroga",
+        "Aero++",
+        "Aeroga",
+        "Aeroga\u001a"
+    ],
+    "20250": [
+        "Stonga",
+        "大落石",
+        "스톤가",
+        "Terre X",
+        "Terraga",
+        "Piedra++",
+        "Stonga",
+        "Stonga\u001a"
+    ],
+    "20260": [
+        "Bioga",
+        "劇毒化",
+        "바이오가",
+        "Toxine X",
+        "Bioga",
+        "Bio++",
+        "Bioga",
+        "Bioga\u001a"
+    ],
+    "20270": [
+        "Graviga",
+        "強重力",
+        "그라비가",
+        "Gravité X",
+        "Graviga",
+        "Gravedad++",
+        "Graviga",
+        "Graviga\u001a"
+    ],
+    "20280": [
+        "Death",
+        "致死一擊",
+        "데스",
+        "Mort",
+        "Exitus",
+        "Muerte",
+        "Death",
+        "Death\u001a"
+    ],
+    "20290": [
+        "Firaja",
+        "強火焰",
+        "파이자",
+        "Feu max",
+        "Feuka",
+        "Piro+++",
+        "Firaja",
+        "Firaja\u001a"
+    ],
+    "20300": [
+        "Blizzaja",
+        "強暴雪",
+        "블리자쟈",
+        "Glace max",
+        "Eiska",
+        "Hielo+++",
+        "Blizzaja",
+        "Blizzaja\u001a"
+    ],
+    "20310": [
+        "Thundaja",
+        "強雷電",
+        "선더쟈",
+        "Foudre max",
+        "Blitzka",
+        "Electro+++",
+        "Thundaja",
+        "Thundaja\u001a"
+    ],
+    "20320": [
+        "Waterja",
+        "強流水",
+        "워터쟈",
+        "Eau max",
+        "Aquaka",
+        "Aqua+++",
+        "Waterja",
+        "Waterja\u001a"
+    ],
+    "20330": [
+        "Aeroja",
+        "強勁風",
+        "에어로쟈",
+        "Vent max",
+        "Aeroka",
+        "Aero+++",
+        "Aeroja",
+        "Aeroja\u001a"
+    ],
+    "20340": [
+        "Stonja",
+        "強落石",
+        "스톤쟈",
+        "Terre max",
+        "Terraka",
+        "Piedra+++",
+        "Stonja",
+        "Stonja\u001a"
+    ],
+    "20350": [
+        "Flare",
+        "核爆",
+        "플레어",
+        "Brasier",
+        "Flamme",
+        "Fulgor",
+        "Flare",
+        "Flare\u001a"
+    ],
+    "20360": [
+        "Freeze",
+        "冰結",
+        "프리즈",
+        "Gel",
+        "Frost",
+        "Congelación",
+        "Freeze",
+        "Freeze\u001a"
+    ],
+    "20370": [
+        "Burst (FFBE)",
+        "炸裂(FFBE)",
+        "버스트(FFBE)",
+        "Implosion (FFBE)",
+        "Einschlag (FFBE)",
+        "Descarga (FFBE)",
+        "Burst (FFBE)",
+        "Burst\u001a \u001a(\u001aFFBE\u001a)\u001a"
+    ],
+    "20380": [
+        "Flood",
+        "洪水",
+        "플러드",
+        "Inondation",
+        "Flut",
+        "Inundación",
+        "Flood",
+        "Flood\u001a"
+    ],
+    "20390": [
+        "Tornado",
+        "龍捲風",
+        "토네이도",
+        "Tornade",
+        "Tornado",
+        "Tornado",
+        "Tornado",
+        "Tornado\u001a"
+    ],
+    "20400": [
+        "Quake",
+        "地槌",
+        "퀘이크",
+        "Séisme",
+        "Beben",
+        "Seísmo",
+        "Quake",
+        "Quake\u001a"
+    ],
+    "20410": [
+        "Impact",
+        "衝擊",
+        "임팩트",
+        "Impact",
+        "Aufprall",
+        "Impacto",
+        "Impact",
+        "Impact\u001a"
+    ],
+    "20420": [
+        "Meltdown",
+        "熔毀",
+        "멜트 다운",
+        "Fusion",
+        "Kernschmelze",
+        "Fusión",
+        "Meltdown",
+        "Meltdown\u001a"
+    ],
+    "20430": [
+        "Meteor",
+        "隕石",
+        "메테오",
+        "Météore",
+        "Meteo",
+        "Meteo",
+        "Meteor",
+        "Meteor\u001a"
+    ],
+    "20440": [
+        "Ultima",
+        "究極",
+        "알테마",
+        "Ultima",
+        "Ultima",
+        "Artema",
+        "Ultima",
+        "Ultima\u001a"
+    ],
+    "20450": [
+        "Dark",
+        "暗黑",
+        "다크",
+        "Ténèbres",
+        "Negrum",
+        "Sombra",
+        "Dark",
+        "Dark\u001a"
+    ],
+    "20460": [
+        "Darkra",
+        "中暗黑",
+        "다크라",
+        "Ténèbres +",
+        "Negra",
+        "Sombra+",
+        "Darkra",
+        "Darkra\u001a"
+    ],
+    "20470": [
+        "Darkga",
+        "大暗黑",
+        "다크가",
+        "Ténèbres X",
+        "Nega",
+        "Sombra++",
+        "Darkga",
+        "Darkga\u001a"
+    ],
+    "20480": [
+        "Death",
+        "致死一擊",
+        "데스",
+        "Mort",
+        "Exitus",
+        "Muerte",
+        "Death",
+        "Death\u001a"
+    ],
+    "20490": [
+        "Alterna",
+        "吸收",
+        "얼터너",
+        "Alternance",
+        "Alterna",
+        "Versus",
+        "Alterna",
+        "Alterna\u001a"
+    ],
+    "20500": [
+        "Astral Fire",
+        "星極火",
+        "천상의 화염",
+        "Feu astral",
+        "Astralfeuer",
+        "Fuego astral",
+        "Astral Fire",
+        "Astral\u001a \u001aFire\u001a"
+    ],
+    "20510": [
+        "Astral Blizzard",
+        "靈極冰",
+        "저승의 냉기",
+        "Glace ombrale",
+        "Astralschneesturm",
+        "Ventisca astral",
+        "Astral Blizzard",
+        "Astral\u001a \u001aBlizzard\u001a"
+    ],
+    "20520": [
+        "Scathe",
+        "崩潰",
+        "컬랩스",
+        "Blessure",
+        "Delle",
+        "Lastimar",
+        "Scathe",
+        "Scathe\u001a"
+    ],
+    "20530": [
+        "Doomsday",
+        "末日審判",
+        "크루세이더",
+        "Apocalypse",
+        "Eroberer",
+        "Hecatombe",
+        "Doomsday",
+        "Doomsday\u001a"
+    ],
+    "20550": [
+        "Raging Ice",
+        "烈冰",
+        "조블리자",
+        "Glace rageuse",
+        "Wütendes Eis",
+        "Hielo furibundo",
+        "Raging Ice",
+        "Raging\u001a \u001aIce\u001a"
+    ],
+    "20560": [
+        "Apocalypse",
+        "末世",
+        "아포칼립스",
+        "Apocalypse",
+        "Apokalypse",
+        "Apocalipsis",
+        "Apocalypse",
+        "Apocalypse\u001a"
+    ],
+    "20570": [
+        "Stone I",
+        "落石I",
+        "스톤I",
+        "Terre I",
+        "Terra I",
+        "Piedra I",
+        "Stone I",
+        "Stone\u001a \u001aI\u001a"
+    ],
+    "20580": [
+        "Water I",
+        "流水I",
+        "워터I",
+        "Eau I",
+        "Aqua I",
+        "Aqua I",
+        "Water I",
+        "Water\u001a \u001aI\u001a"
+    ],
+    "20590": [
+        "Aero I",
+        "勁風I",
+        "에어로I",
+        "Vent I",
+        "Aero I",
+        "Aero I",
+        "Aero I",
+        "Aeroe\u001a \u001aI\u001a"
+    ],
+    "20600": [
+        "Fire I",
+        "火焰I",
+        "파이어I",
+        "Feu I",
+        "Feuer I",
+        "Piro I",
+        "Fire I",
+        "Fire\u001a \u001aI\u001a"
+    ],
+    "20610": [
+        "Blizzard I",
+        "暴雪I",
+        "블리자드I",
+        "Glace I",
+        "Eis I",
+        "Hielo I",
+        "Blizzard I",
+        "Blizzarrd\u001a \u001aI\u001a"
+    ],
+    "20620": [
+        "Thunder I",
+        "雷電I",
+        "선더I",
+        "Foudre I",
+        "Blitz I",
+        "Electro I",
+        "Thunder I",
+        "Thunder\u001a \u001aI\u001a"
+    ],
+    "20630": [
+        "Stonega V",
+        "大落石V",
+        "스톤가V",
+        "OmniTerre V",
+        "Terraga V",
+        "Piedra++ V",
+        "Stonega V",
+        "Stonega\u001a \u001aV\u001a"
+    ],
+    "20640": [
+        "Waterga V",
+        "大流水V",
+        "워터가V",
+        "OmniEau V",
+        "Aquaga V",
+        "Aqua++ V",
+        "Waterga V",
+        "Waterga\u001a \u001aV\u001a"
+    ],
+    "20650": [
+        "Aeroga V",
+        "大勁風V",
+        "에어로가V",
+        "OmniVent V",
+        "Aeroga V",
+        "Aero++ V",
+        "Aeroga V",
+        "Aeroga\u001a \u001aV\u001a"
+    ],
+    "20660": [
+        "Firaga V",
+        "大火焰V",
+        "파이가V",
+        "OmniFeu V",
+        "Feuga V",
+        "Piro++ V",
+        "Firaga V",
+        "Firaga\u001a \u001aV\u001a"
+    ],
+    "20670": [
+        "Blizzaga V",
+        "大暴雪V",
+        "블리자가V",
+        "OmniGlace V",
+        "Eisga V",
+        "Hielo++ V",
+        "Blizzaga V",
+        "Blizzaga\u001a \u001aV\u001a"
+    ],
+    "20680": [
+        "Thundaga V",
+        "大雷電V",
+        "선더가V",
+        "OmniFoudre V",
+        "Blitzga V",
+        "Electro++ V",
+        "Thundaga V",
+        "Thundaga\u001a \u001aV\u001a"
+    ],
+    "20690": [
+        "Bio III",
+        "毒化III",
+        "바이오III",
+        "Bactérie III",
+        "Bio III",
+        "Bio III",
+        "Bio III",
+        "Bio\u001a \u001aIII\u001a"
+    ],
+    "20700": [
+        "Flare II",
+        "核爆II",
+        "플레어II",
+        "Brasier II",
+        "Flamme II",
+        "Fulgor II",
+        "Flare II",
+        "Flare\u001a \u001aII\u001a"
+    ],
+    "20730": [
+        "Flood II",
+        "洪水II",
+        "플러드II",
+        "Déluge II",
+        "Flut II",
+        "Inundación II",
+        "Flood II",
+        "Flood\u001a \u001aII\u001a"
+    ],
+    "20760": [
+        "Raging Water",
+        "狂水",
+        "조워터",
+        "Flots déchaînés",
+        "Reißender Strom",
+        "Aguas enfurecidas",
+        "Raging Water",
+        "Raging\u001a \u001aWater\u001a"
+    ],
+    "20770": [
+        "Break",
+        "石化",
+        "브레이크",
+        "Fossile",
+        "Stein",
+        "Petra",
+        "Break",
+        "Break\u001a"
+    ],
+    "20780": [
+        "Breakga",
+        "大石化",
+        "브레이크가",
+        "Fossile X",
+        "Steinga",
+        "Petra+",
+        "Breakga",
+        "Breakga\u001a"
+    ],
+    "20790": [
+        "Raging Fire",
+        "烈火",
+        "조파이어",
+        "Feu rageur",
+        "Wütendes Feuer",
+        "Fuego furibundo",
+        "Raging Fire",
+        "Raging\u001a \u001aFire\u001a"
+    ],
+    "20800": [
+        "Doomsday",
+        "聖戰",
+        "크루세이더",
+        "Apocalypse",
+        "Todestribunal",
+        "Hecatombe",
+        "Doomsday",
+        "Doomsday\u001a"
+    ],
+    "20810": [
+        "Firaga V+",
+        "大火焰V+",
+        "파이가V+",
+        "OmniFeu V +",
+        "Feuga V+",
+        "Piro++ VI",
+        "Firaga V+",
+        "Firaga\u001a \u001aV\u001a+\u001a"
+    ],
+    "20820": [
+        "Blizzaga V+",
+        "大暴雪V+",
+        "블리자가V+",
+        "OmniGlace V +",
+        "Eisga V+",
+        "Hielo++ VI",
+        "Blizzaga V+",
+        "Blizzaga\u001a \u001aV\u001a+\u001a"
+    ],
+    "20830": [
+        "Thundaga V+",
+        "大雷電V+",
+        "선더가V+",
+        "OmniFoudre V +",
+        "Blitzga V+",
+        "Electro++ VI",
+        "Thundaga V+",
+        "Thundaga\u001a \u001aV\u001a+\u001a"
+    ],
+    "20840": [
+        "Waterga V+",
+        "大流水V+",
+        "워터가V+",
+        "OmniEau V +",
+        "Aquaga V+",
+        "Aqua++ VI",
+        "Waterga V+",
+        "Waterga\u001a \u001aV\u001a+\u001a"
+    ],
+    "20850": [
+        "Aeroga V+",
+        "大勁風V+",
+        "에어로가V+",
+        "OmniVent V +",
+        "Aeroga V+",
+        "Aero++ VI",
+        "Aeroga V+",
+        "Aeroga\u001a \u001aV\u001a+\u001a"
+    ],
+    "20860": [
+        "Stonega V+",
+        "大落石V+",
+        "스톤가V+",
+        "OmniTerre V +",
+        "Terraga V+",
+        "Piedra++ VI",
+        "Stonega V+",
+        "Stonega\u001a \u001aV\u001a+\u001a"
+    ],
+    "20870": [
+        "Curse",
+        "詛咒",
+        "커스",
+        "Fléau",
+        "Fluch",
+        "Maleficio",
+        "Curse",
+        "Curse\u001a"
+    ],
+    "20880": [
+        "Bubble",
+        "高漲",
+        "버블",
+        "Bulle",
+        "Dubli",
+        "Duplo",
+        "Bubble",
+        "Bubble\u001a"
+    ],
+    "30010": [
+        "Sleep",
+        "催眠",
+        "슬리플",
+        "Sommeil",
+        "Schlaf",
+        "Morfeo",
+        "Sleep",
+        "Sleep\u001a"
+    ],
+    "30020": [
+        "Blind",
+        "盲目",
+        "블라인",
+        "Cécité",
+        "Blind",
+        "Tiniebla",
+        "Blind",
+        "Blind\u001a"
+    ],
+    "30030": [
+        "Barfire",
+        "抗火",
+        "바파이",
+        "Anti-Feu",
+        "Exfeu",
+        "AntiFuego",
+        "Barfire",
+        "Barfire\u001a"
+    ],
+    "30040": [
+        "Barblizzard",
+        "抗冰",
+        "바블리자",
+        "Anti-Glace",
+        "Exeis",
+        "AntiFrío",
+        "Barblizzard",
+        "Barblizzard\u001a"
+    ],
+    "30050": [
+        "Barthund",
+        "抗雷",
+        "바선더",
+        "Anti-Foudre",
+        "Exblitz",
+        "AntiRayo",
+        "Barthunder",
+        "Barthunder\u001a"
+    ],
+    "30060": [
+        "Barwater",
+        "抗水",
+        "바워터",
+        "Anti-Eau",
+        "Exaqua",
+        "AntiAgua",
+        "Barwater",
+        "Barwater\u001a"
+    ],
+    "30070": [
+        "Baraero",
+        "抗風",
+        "바에어로",
+        "Anti-Vent",
+        "Exaero",
+        "AntiAero",
+        "Baraero",
+        "Baraero\u001a"
+    ],
+    "30080": [
+        "Barstone",
+        "抗土",
+        "바스톤",
+        "Anti-Terre",
+        "Exterra",
+        "AntiPiedra",
+        "Barstone",
+        "Barstone\u001a"
+    ],
+    "30090": [
+        "Protect",
+        "物防護",
+        "프로테스",
+        "Bouclier",
+        "Protes",
+        "Coraza",
+        "Protect",
+        "Protect\u001a"
+    ],
+    "30091": [
+        "Protect (Auto)",
+        "物防護（自動）",
+        "프로테스(AUTO용)",
+        "Bouclier (auto)",
+        "Protes (auto)",
+        "Coraza (Auto)",
+        "Protect (Auto)",
+        "Protect\u001a \u001a(\u001aAuto\u001a)\u001a"
+    ],
+    "30092": [
+        "Protect (Lvl 1)",
+        "物防護(Lv.1)",
+        "프로테스(Lv.1)",
+        "Bouclier",
+        "Protes (St. 1)",
+        "Coraza (Nv. 1)",
+        "Protect (Lv. 1)",
+        "Protect\u001a \u001a(\u001aLv\u001a.\u001a \u001a1\u001a)\u001a"
+    ],
+    "30093": [
+        "Protect (Lvl 2)",
+        "物防護(Lv.2)",
+        "프로테스(Lv.2)",
+        "Bouclier",
+        "Protes (St. 2)",
+        "Coraza (Nv. 2)",
+        "Protect (Lv. 2)",
+        "Protect\u001a \u001a(\u001aLv\u001a.\u001a \u001a2\u001a)\u001a"
+    ],
+    "30094": [
+        "Protect (Lvl 3)",
+        "物防護(Lv.3)",
+        "프로테스(Lv.3)",
+        "Bouclier",
+        "Protes (St. 3)",
+        "Coraza (Nv. 3)",
+        "Protect (Lv. 3)",
+        "Protect\u001a \u001a(\u001aLv\u001a.\u001a \u001a3\u001a)\u001a"
+    ],
+    "30095": [
+        "Protect (Lvl 4)",
+        "物防護(Lv.4)",
+        "프로테스(Lv.4)",
+        "Bouclier",
+        "Protes (St. 4)",
+        "Coraza (Nv. 4)",
+        "Protect (Lv. 4)",
+        "Protect\u001a \u001a(\u001aLv\u001a.\u001a \u001a4\u001a)\u001a"
+    ],
+    "30096": [
+        "Protect (Lvl 5)",
+        "物防護(Lv.5)",
+        "프로테스(Lv.5)",
+        "Bouclier",
+        "Protes (St. 5)",
+        "Coraza (Nv. 5)",
+        "Protect (Lv. 5)",
+        "Protect\u001a \u001a(\u001aLv\u001a.\u001a \u001a5\u001a)\u001a"
+    ],
+    "30097": [
+        "Protect (Basch)",
+        "物防護(巴修用)",
+        "프로테스(바슈 용)",
+        "Bouclier",
+        "Protes (St. 6)",
+        "Coraza (Nv. 6)",
+        "Protect (Basch)",
+        "Protect\u001a \u001a(\u001aสำหรับ\u001a \u001aBasch\u001a)\u001a"
+    ],
+    "30099": [
+        "Protect (Auto)",
+        "物防護（自動）",
+        "프로테스(AUTO용)",
+        "Bouclier (auto)",
+        "Protes (Auto)",
+        "Coraza (Auto)",
+        "Protect (Auto)",
+        "Protect\u001a \u001a(\u001aAuto\u001a)\u001a"
+    ],
+    "30100": [
+        "Silence",
+        "沉默",
+        "사일런스",
+        "Silence",
+        "Stille",
+        "Mutis",
+        "Silence",
+        "Silence\u001a"
+    ],
+    "30110": [
+        "Barfira",
+        "全抗火",
+        "바파이라",
+        "Anti-Feu +",
+        "Exfeura",
+        "AntiFuego+",
+        "Barfira",
+        "Barfira\u001a"
+    ],
+    "30120": [
+        "Barblizzara",
+        "全抗冰",
+        "바블리자라",
+        "Anti-Glace +",
+        "Exeisra",
+        "AntiFrío+",
+        "Barblizzara",
+        "Barblizzara\u001a"
+    ],
+    "30130": [
+        "Barthundara",
+        "全抗雷",
+        "바선더라",
+        "Anti-Foudre +",
+        "Exblitzra",
+        "AntiRayo+",
+        "Barthundara",
+        "Barthundara\u001a"
+    ],
+    "30140": [
+        "Shell",
+        "魔防護",
+        "셸",
+        "Barrière",
+        "Vallum",
+        "Escudo",
+        "Shell",
+        "Shell\u001a"
+    ],
+    "30141": [
+        "Shell (Auto)",
+        "魔防護（自動）",
+        "셸(AUTO용)",
+        "Barrière (auto)",
+        "Vallum (auto)",
+        "Escudo (Auto)",
+        "Shell (Auto)",
+        "Shell\u001a \u001a(\u001aAuto\u001a)\u001a"
+    ],
+    "30142": [
+        "Shell (Lvl 1)",
+        "魔防護(Lv.1)",
+        "셸(Lv.1)",
+        "Barrière",
+        "Vallum (St. 1)",
+        "Escudo (Nv. 1)",
+        "Shell (Lv. 1)",
+        "Shell\u001a \u001a(\u001aLv\u001a.\u001a \u001a1\u001a)\u001a"
+    ],
+    "30143": [
+        "Shell (Lvl 2)",
+        "魔防護(Lv.2)",
+        "셸(Lv.2)",
+        "Barrière",
+        "Vallum (St. 2)",
+        "Escudo (Nv. 2)",
+        "Shell (Lv. 2)",
+        "Shell\u001a \u001a(\u001aLv\u001a.\u001a \u001a2\u001a)\u001a"
+    ],
+    "30144": [
+        "Shell (Lvl 3)",
+        "魔防護(Lv.3)",
+        "셸(Lv.3)",
+        "Barrière",
+        "Vallum (St. 3)",
+        "Escudo (Nv. 3)",
+        "Shell (Lv. 3)",
+        "Shell\u001a \u001a(\u001aLv\u001a.\u001a \u001a3\u001a)\u001a"
+    ],
+    "30145": [
+        "Shell (Lvl 4)",
+        "魔防護(Lv.4)",
+        "셸(Lv.4)",
+        "Barrière",
+        "Vallum (St. 4)",
+        "Escudo (Nv. 4)",
+        "Shell (Lv. 4)",
+        "Shell\u001a \u001a(\u001aLv\u001a.\u001a \u001a4\u001a)\u001a"
+    ],
+    "30146": [
+        "Shell (Lvl 5)",
+        "魔防護(Lv.5)",
+        "셸(Lv.5)",
+        "Barrière",
+        "Vallum (St. 5)",
+        "Escudo (Nv. 5)",
+        "Shell (Lv. 5)",
+        "Shell\u001a \u001a(\u001aLv\u001a.\u001a \u001a5\u001a)\u001a"
+    ],
+    "30147": [
+        "Protect (Basch)",
+        "魔防護(巴修用)",
+        "셸(바슈 용)",
+        "Barrière",
+        "Vallum (St. 6)",
+        "Escudo (Basch)",
+        "Shell (Basch)",
+        "Shell\u001a \u001a(\u001aสำหรับ\u001a \u001aBasch\u001a)\u001a"
+    ],
+    "30148": [
+        "Shell",
+        "魔防護",
+        "셸",
+        "Barrière",
+        "Vallum",
+        "Escudo",
+        "Shell",
+        "Shell\u001a"
+    ],
+    "30150": [
+        "Deprotect",
+        "弱守",
+        "디프로테",
+        "Retire-Bouclier",
+        "Deprotes",
+        "AntiCoraza",
+        "Deprotect",
+        "Deprotect\u001a"
+    ],
+    "30160": [
+        "Deshell",
+        "弱心",
+        "디셸",
+        "Retire-Barrière",
+        "Devall",
+        "AntiEscudo",
+        "Deshell",
+        "Deshell\u001a"
+    ],
+    "30170": [
+        "Barwatera",
+        "全抗水",
+        "바워터라",
+        "Anti-Eau +",
+        "Exaquara",
+        "AntiAgua+",
+        "Barwatera",
+        "Barwatera\u001a"
+    ],
+    "30180": [
+        "Baraerora",
+        "全抗風",
+        "바에어로라",
+        "Anti-Vent +",
+        "Exaerora",
+        "AntiAero+",
+        "Baraerora",
+        "Baraerora\u001a"
+    ],
+    "30190": [
+        "Barstonra",
+        "全抗土",
+        "바스톤라",
+        "Anti-Terre +",
+        "Exterrara",
+        "AntiPiedra+",
+        "Barstonra",
+        "Barstonra\u001a"
+    ],
+    "30200": [
+        "Imperil",
+        "弱化",
+        "위크",
+        "Vulnérabilité",
+        "Morbid",
+        "Aquiles",
+        "Imperil",
+        "Imperil\u001a"
+    ],
+    "30201": [
+        "Imperil",
+        "弱化",
+        "위크",
+        "Vulnérabilité",
+        "Morbid",
+        "Aquiles",
+        "Imperil",
+        "Imperil\u001a"
+    ],
+    "30202": [
+        "Imperil",
+        "弱化",
+        "위크",
+        "Vulnérabilité",
+        "Morbid",
+        "Aquiles",
+        "Imperil",
+        "Imperil\u001a"
+    ],
+    "30210": [
+        "Bravery",
+        "勇氣",
+        "브레이브",
+        "Bravoure",
+        "Courage",
+        "Bravura",
+        "Bravery",
+        "Bravery\u001a"
+    ],
+    "30211": [
+        "Bravery (Auto)",
+        "勇氣（自動）",
+        "브레이브(AUTO용)",
+        "Bravoure (auto)",
+        "Courage (auto)",
+        "Bravura (Auto)",
+        "Bravery (Auto)",
+        "Brave\u001a \u001a(\u001aAuto\u001a)\u001a"
+    ],
+    "30212": [
+        "Bravery (Constant Oomph)",
+        "勇氣(總是巴依奇爾托用)",
+        "브레이브(항상 바이킬트용)",
+        "Bravoure (Décuplo constant)",
+        "Courage (Konstanter Energieschub)",
+        "Bravura (Doble potencia interminable)",
+        "Bravery (Peningkatan Energi Konstan)",
+        "Brave\u001a \u001a(\u001aเมื่อ\u001aเปิด\u001a \u001aOomphle\u001a \u001aตลอด\u001a)\u001a"
+    ],
+    "30213": [
+        "Bravery (Venus Sigil)",
+        "勇氣(火星聖印用)",
+        "브레이브(화성의 성인용)",
+        "Bravoure (Sceau de Mars)",
+        "Courage (Mars-Siegel)",
+        "Bravura (Emblema de Marte)",
+        "Bravery (Segel Mars)",
+        "Brave\u001a \u001a(\u001aเมื่อ\u001aใช้\u001a \u001aตรา\u001aดาวศุกร์\u001a)\u001a"
+    ],
+    "30214": [
+        "Bravery (White Lotus)",
+        "勇氣(白妙聖蓮用)",
+        "브레이브(백색의 성련용)",
+        "Bravoure (Lotus blanc)",
+        "Courage (Lotus der Tugend)",
+        "Bravura (Loto blanco)",
+        "Bravery (Lotus Putih)",
+        "Brave\u001a \u001a(\u001aเมื่อ\u001aใช้\u001a \u001aดอกบัว\u001aขาว\u001a)\u001a"
+    ],
+    "30217": [
+        "Bravery (Auto)",
+        "勇氣（自動）",
+        "브레이브(AUTO용)",
+        "Bravoure (auto)",
+        "Courage (Auto)",
+        "Bravura (Auto)",
+        "Bravery (Auto)",
+        "Bravery\u001a \u001a(\u001aAuto\u001a)\u001a"
+    ],
+    "30218": [
+        "Bravery (Auto)",
+        "勇氣（自動）",
+        "브레이브(AUTO용)",
+        "Bravoure (auto)",
+        "Courage (auto)",
+        "Bravura (Auto)",
+        "Bravery (Auto)",
+        "Bravery\u001a \u001a(\u001aAuto\u001a)\u001a"
+    ],
+    "30219": [
+        "Bravery+ (Auto)",
+        "勇氣+（自動）",
+        "브레이브+(AUTO용)",
+        "Bravoure + (auto)",
+        "Courage + (auto)",
+        "Bravura+ (Auto)",
+        "Bravery+ (Auto)",
+        "Bravery\u001a+\u001a \u001a(\u001aAuto\u001a)\u001a"
+    ],
+    "30220": [
+        "Faith",
+        "信念",
+        "페이스",
+        "Foi",
+        "Ener",
+        "Fe",
+        "Faith",
+        "Faith\u001a"
+    ],
+    "30221": [
+        "Faith (Auto)",
+        "信念（自動）",
+        "페이스(AUTO용)",
+        "Foi (auto)",
+        "Ener (auto)",
+        "Fe (Auto)",
+        "Faith (Auto)",
+        "Faith\u001a \u001a(\u001aAuto\u001a)\u001a"
+    ],
+    "30230": [
+        "Sleepga",
+        "強催眠",
+        "슬리플가",
+        "Sommeil X",
+        "Schlafga",
+        "Morfeo++",
+        "Sleepga",
+        "Sleepga\u001a"
+    ],
+    "30260": [
+        "Barfiraga",
+        "超抗火",
+        "바파이가",
+        "Anti-Feu X",
+        "Exfeuga",
+        "AntiFuego++",
+        "Barfiraga",
+        "Barfiraga\u001a"
+    ],
+    "30270": [
+        "Barblizzaga",
+        "超抗冰",
+        "바블리자가",
+        "Anti-Glace X",
+        "Exeisga",
+        "AntiHielo++",
+        "Barblizzaga",
+        "Barblizzaga\u001a"
+    ],
+    "30280": [
+        "Barthundaga",
+        "超抗雷",
+        "바선더가",
+        "Anti-Foudre X",
+        "Exblitzga",
+        "AntiRayo++",
+        "Barthundaga",
+        "Barthundaga\u001a"
+    ],
+    "30290": [
+        "Barwaterga",
+        "超抗水",
+        "바워터가",
+        "Anti-Eau X",
+        "Exaquaga",
+        "AntiAgua++",
+        "Barwaterga",
+        "Barwaterga\u001a"
+    ],
+    "30300": [
+        "Baraeroga",
+        "超抗風",
+        "바에어로가",
+        "Anti-Vent X",
+        "Exaeroga",
+        "AntiAero++",
+        "Baraeroga",
+        "Baraeroga\u001a"
+    ],
+    "30310": [
+        "Barstonga",
+        "超抗土",
+        "바스톤가",
+        "Anti-Terre X",
+        "Exterraga",
+        "AntiPiedra++",
+        "Barstonga",
+        "Barstonga\u001a"
+    ],
+    "30320": [
+        "Protectga",
+        "超物防護",
+        "프로테가",
+        "Bouclier +",
+        "Protega",
+        "Coraza+",
+        "Protectga",
+        "Protectga\u001a"
+    ],
+    "30330": [
+        "Shellga",
+        "廣魔防殼",
+        "셸가",
+        "Barrière X",
+        "Vallga",
+        "Escudo+",
+        "Shellga",
+        "Shellga\u001a"
+    ],
+    "30370": [
+        "Reflect",
+        "反射",
+        "리플렉트",
+        "Boomerang",
+        "Reflek",
+        "Espejo",
+        "Reflect",
+        "Reflect\u001a"
+    ],
+    "30371": [
+        "Reflect",
+        "反射",
+        "리플렉트",
+        "Boomerang",
+        "Reflek",
+        "Espejo",
+        "Reflect",
+        "Reflect\u001a"
+    ],
+    "30380": [
+        "Defira",
+        "滅火",
+        "디파이라",
+        "Contre-feu+",
+        "Feurasensibel",
+        "ContraFuego+",
+        "Defira",
+        "Defira\u001a"
+    ],
+    "30400": [
+        "Dethundara",
+        "避雷",
+        "디선더라",
+        "Contre-foudre+",
+        "Blitzrasensibel",
+        "ContraRayo+",
+        "Dethundara",
+        "Dethundara\u001a"
+    ],
+    "30440": [
+        "Delightra",
+        "遮光",
+        "디라이트라",
+        "Contre-lumière+",
+        "Lichtrasensibel",
+        "ContraLuz+",
+        "Delightra",
+        "Delightra\u001a"
+    ],
+    "30460": [
+        "Aura",
+        "靈氣",
+        "아우라",
+        "Aura",
+        "Aura",
+        "Aura",
+        "Aura",
+        "Aura\u001a"
+    ],
+    "30470": [
+        "Imperilga",
+        "廣陷危",
+        "위가",
+        "Vulnérabilité²",
+        "Morbiga",
+        "Aquiles+",
+        "Imperilga",
+        "Imperilga\u001a"
+    ],
+    "30480": [
+        "Enfire",
+        "火焰增強",
+        "엔파이어",
+        "Endo-Feu",
+        "Adfeu",
+        "Don de Fuego",
+        "Enfire",
+        "Enfire\u001a"
+    ],
+    "30490": [
+        "Enfrost",
+        "暴雪增強",
+        "엔블리자",
+        "Endo-Glace",
+        "Adeis",
+        "Don de Frío",
+        "Enfrost",
+        "Enfrost\u001a"
+    ],
+    "30500": [
+        "Enthunder",
+        "雷電增強",
+        "인선더",
+        "Endo-Foudre",
+        "Adblitz",
+        "Don de Rayo",
+        "Enthunder",
+        "Enthunder\u001a"
+    ],
+    "30510": [
+        "Enwater",
+        "流水增強",
+        "엔워터",
+        "Endo-Eau",
+        "Adaqua",
+        "Don de Agua",
+        "Enwater",
+        "Enwater\u001a"
+    ],
+    "30530": [
+        "Enstone",
+        "落石增強",
+        "엔스톤",
+        "Endo-Terre",
+        "Versteinern",
+        "Don de Tierra",
+        "Enstone",
+        "Enstone\u001a"
+    ],
+    "30560": [
+        "Veil",
+        "護身罩",
+        "베일",
+        "Voile",
+        "Flor",
+        "Velo",
+        "Veil",
+        "Veil\u001a"
+    ],
+    "30580": [
+        "Enfira",
+        "中火焰增強",
+        "엔파이라",
+        "Endo-Feu +",
+        "Auffeura",
+        "Don de Fuego+",
+        "Enfira",
+        "Enfira\u001a"
+    ],
+    "30600": [
+        "Enthundara",
+        "中雷電增強",
+        "엔선더라",
+        "Endo-Foudre +",
+        "Donnera",
+        "Don de Rayo+",
+        "Enthundara",
+        "Enthundara\u001a"
+    ],
+    "30610": [
+        "Enwatera",
+        "中流水增強",
+        "엔워터라",
+        "Endo-Eau +",
+        "Aufaquara",
+        "Don de Agua+",
+        "Enwatera",
+        "Enwatera\u001a"
+    ],
+    "30620": [
+        "Enaerora",
+        "中勁風增強",
+        "엔에어로라",
+        "Endo-Vent +",
+        "Aufaerora",
+        "Don de Viento+",
+        "Enaerora",
+        "Enaerora\u001a"
+    ],
+    "30630": [
+        "Enstonra",
+        "中落石增強",
+        "엔스톤라",
+        "Endo-Terre +",
+        "Versteinera",
+        "Don de Tierra+",
+        "Enstonra",
+        "Enstonra\u001a"
+    ],
+    "30640": [
+        "Enlightra",
+        "中光芒增強",
+        "엔라이트라",
+        "Endo-Lumière +",
+        "Aufblitzra",
+        "Don de Luz+",
+        "Enlightra",
+        "Enlightra\u001a"
+    ],
+    "30650": [
+        "Endarkra",
+        "中暗黑增強",
+        "엔다크라",
+        "Endo-Ténèbres +",
+        "Atnegra",
+        "Don de Oscuridad+",
+        "Endarkra",
+        "Endarkra\u001a"
+    ],
+    "30660": [
+        "Enfiraga",
+        "大火焰增強",
+        "엔파이가",
+        "Endo-Feu³",
+        "Auffeuga",
+        "Don de Fuego++",
+        "Enfiraga",
+        "Enfiraga\u001a"
+    ],
+    "30670": [
+        "Enblizzaga",
+        "大暴雪增強",
+        "엔블리자가",
+        "Endo-Glace X",
+        "Aufeisga",
+        "Don de Hielo++",
+        "Enblizzaga",
+        "Enblizzaga\u001a"
+    ],
+    "30680": [
+        "Enthundaga",
+        "大雷電增強",
+        "엔선더가",
+        "Endo-Foudre X",
+        "Aufblitzga",
+        "Don de Rayo++",
+        "Enthundaga",
+        "Enthundaga\u001a"
+    ],
+    "30690": [
+        "Enwaterga",
+        "大流水增強",
+        "엔워터가",
+        "Endo-eau X",
+        "Adaquaga",
+        "Don de Agua++",
+        "Enwaterga",
+        "Enwaterga\u001a"
+    ],
+    "30700": [
+        "Enaeroga",
+        "大勁風增強",
+        "엔에어로가",
+        "Endo-Vent³",
+        "Aufaeroga",
+        "Don de Viento++",
+        "Enaeroga",
+        "Enaeroga\u001a"
+    ],
+    "30710": [
+        "Enstonga",
+        "大落石增強",
+        "엔스톤가",
+        "Endo-Terre X",
+        "Aufterraga",
+        "Don de Tierra++",
+        "Enstonga",
+        "Enstonga\u001a"
+    ],
+    "30720": [
+        "Enlightga",
+        "大光芒增強",
+        "엔라이트가",
+        "Endo-Lumière X",
+        "Auflichtga",
+        "Don de Luz++",
+        "Enlightga",
+        "Enlightga\u001a"
+    ],
+    "30730": [
+        "Endarkga",
+        "大暗黑增強",
+        "엔다크가",
+        "Endo-Ténèbres X",
+        "Aufnega",
+        "Don de Oscuridad++",
+        "Endarkga",
+        "Endarkga\u001a"
+    ],
+    "30731": [
+        "Enfiraja",
+        "強火焰增強",
+        "엔파이자",
+        "Endo-Calcination",
+        "Auffeuka",
+        "Don de Fuego+++",
+        "Enfiraja",
+        "Enfiraja\u001a"
+    ],
+    "30732": [
+        "Enblizzaja",
+        "強暴雪增強",
+        "엔블리자쟈",
+        "Endo-Glace Max",
+        "Aufeiska",
+        "Don de Hielo+++",
+        "Enblizzaja",
+        "Enblizzaja\u001a"
+    ],
+    "30740": [
+        "Barrier",
+        "屏障",
+        "배리어",
+        "Barrière",
+        "Barriere",
+        "Barrera",
+        "Barrier",
+        "บาเรีย\u001a"
+    ],
+    "30750": [
+        "Barfiraja",
+        "極抗火",
+        "바파이쟈",
+        "Anti-Feu Max",
+        "Exfeuka",
+        "AntiFuego+++",
+        "Barfiraja",
+        "Barfiraja\u001a"
+    ],
+    "30760": [
+        "Barblizzaja",
+        "極抗冰",
+        "바블리자쟈",
+        "Anti-Glace Max",
+        "Exeiska",
+        "AntiHielo+++",
+        "Barblizzaja",
+        "Barblizzaja\u001a"
+    ],
+    "30770": [
+        "Barthundaja",
+        "極抗雷",
+        "바선더쟈",
+        "Anti-Foudre Max",
+        "Exblitzka",
+        "AntiRayo+++",
+        "Barthundaja",
+        "Barthundaja\u001a"
+    ],
+    "30780": [
+        "Barwaterja",
+        "極抗水",
+        "바워터쟈",
+        "Anti-Eau Max",
+        "Exaquaka",
+        "AntiAgua+++",
+        "Barwaterja",
+        "Barwaterja\u001a"
+    ],
+    "30790": [
+        "Barlightja",
+        "極抗光",
+        "바라이트쟈",
+        "Anti-lumière",
+        "Exlichtka",
+        "AntiLuz+++",
+        "Barlightja",
+        "Barlightja\u001a"
+    ],
+    "30800": [
+        "Barstonja",
+        "超抗土",
+        "바스톤쟈",
+        "Giga anti-terre",
+        "Exterraka",
+        "AntiPiedra+++",
+        "Barstonja",
+        "Barstonja\u001a"
+    ],
+    "30810": [
+        "Bardarkja",
+        "極抗暗",
+        "바다크쟈",
+        "Anti-Ténèbres Max",
+        "Exnegka",
+        "AntiOscuridad+++",
+        "Bardarkja",
+        "Bardarkja\u001a"
+    ],
+    "30820": [
+        "Baraeroja",
+        "極抗風",
+        "바에어로쟈",
+        "Anti-Vent Max",
+        "Exaeroka",
+        "AntiViento+++",
+        "Baraeroja",
+        "Baraeroja\u001a"
+    ],
+    "30830": [
+        "Bardarkga",
+        "超抗暗",
+        "바다크가",
+        "Anti-Ténèbres X",
+        "Exnega",
+        "AntiOscuridad++",
+        "Bardarkga",
+        "Bardarkga\u001a"
+    ],
+    "40010": [
+        "White Wind",
+        "純白之風",
+        "순백의 바람",
+        "Mistral",
+        "Weißer Wind",
+        "Viento blanco",
+        "Angin Putih",
+        "White\u001a \u001aWind\u001a"
+    ],
+    "40020": [
+        "Light of Repentance",
+        "懺悔之光",
+        "참회의 빛",
+        "Lueur des regrets",
+        "Licht der Buße",
+        "Luz de arrepentimiento",
+        "Sinar Pengakuan",
+        "แสง\u001aสำนึก\u001aบาป\u001a"
+    ],
+    "40030": [
+        "Mighty Guard (FFIX)",
+        "強力防禦(FFIX)",
+        "마이티 가드(FFIX)",
+        "Mother (FFIX)",
+        "Totalabwehr (FFIX)",
+        "Barrera total (FFIX)",
+        "Mighty Guard (FFIX)",
+        "Mighty\u001a \u001aGuard\u001a \u001a(\u001aFFIX\u001a)\u001a"
+    ],
+    "40040": [
+        "Angel's Snack",
+        "天使的點心",
+        "천사의 간식",
+        "Angélique",
+        "Engelspeise",
+        "Don angelical",
+        "Cemilan Malaikat",
+        "ขนม\u001aของ\u001aเทวดา\u001a"
+    ],
+    "40050": [
+        "1,000 Needles",
+        "千針刺",
+        "바늘 천 개",
+        "1 000 épines",
+        "1000 Stacheln",
+        "Mil espinas",
+        "1.000 Jarum",
+        "เข็ม\u001a \u001a1,000\u001a \u001aเล่ม\u001a"
+    ],
+    "40060": [
+        "White Wind (FFIX)",
+        "純白之風(FFIX)",
+        "화이트 윈드(FFIX)",
+        "Mistral (FFIX)",
+        "Himmelswind (FFIX)",
+        "Viento blanco (FFIX)",
+        "Angin Putih (FFIX)",
+        "White\u001a \u001aWind\u001a \u001a(\u001aFFIX\u001a)\u001a"
+    ],
+    "40070": [
+        "Aqua Breath (FFIX)",
+        "水之吐息(FFIX)",
+        "아쿠아 브레스(FFIX)",
+        "Aquasouffle (FFIX)",
+        "Nasshauch (FFIX)",
+        "Aliento acuático",
+        "Semburan Air (FFIX)",
+        "ลมหายใจ\u001aวารี\u001a \u001a(\u001aFFIX\u001a)\u001a"
+    ],
+    "40080": [
+        "Auto-Life",
+        "重生",
+        "리레이즈",
+        "Pakaho",
+        "Reinkarnat",
+        "AutoLázaro (FFIX)",
+        "Auto-Life",
+        "Auto-Life\u001a"
+    ],
+    "40090": [
+        "Goblin Punch",
+        "妖精拳",
+        "고블린 펀치",
+        "Gobelipunch",
+        "Goblinschlag",
+        "Golpe de duende",
+        "Tinju Goblin",
+        "หมัด\u001aก็\u001aอบ\u001aลิ\u001aน\u001a"
+    ],
+    "40100": [
+        "Twister (FFIX)",
+        "旋風(FFIX)",
+        "트위스터(FFIX)",
+        "Cyclone (FFIX)",
+        "Tornado (FFIX)",
+        "Huracán",
+        "Twister (FFIX)",
+        "Twister\u001a \u001a(\u001aFFIX\u001a)\u001a"
+    ],
+    "40110": [
+        "Earth Shake",
+        "地動山搖",
+        "어스 셰이크",
+        "Shacker",
+        "Erdbeben",
+        "Temblor",
+        "Guncangan Tanah",
+        "ธรณี\u001aสั่นสะเทือน\u001a"
+    ],
+    "40120": [
+        "Bad Breath (FFIX)",
+        "臭氣(FFIX)",
+        "썩은내(FFIX)",
+        "Infection (FFIX)",
+        "Mundgeruch (FFIX)",
+        "Aliento fétido (FFIX)",
+        "Napas Bau (FFIX)",
+        "ลมหายใจ\u001aเหม็น\u001a \u001a(\u001aFFIX\u001a)\u001a"
+    ],
+    "40130": [
+        "Fire Breath (FFX)",
+        "火炎(FFX)",
+        "화염(FFX)",
+        "Géhenne (FFX)",
+        "Flammen",
+        "Bola de fuego (FFX)",
+        "Semburan Api (FFX)",
+        "ลมหายใจ\u001aอัคคี\u001a \u001a(\u001aFFX\u001a)\u001a"
+    ],
+    "40140": [
+        "Seed Cannon",
+        "種子大砲",
+        "씨앗 대포",
+        "Graine-obus",
+        "Kernspucken",
+        "Cañón de semillas",
+        "Seed Cannon",
+        "ปืนใหญ่\u001aเมล็ด\u001a"
+    ],
+    "40160": [
+        "Stone Breath",
+        "石化吐息",
+        "석화 브레스",
+        "Pétrasouffle",
+        "Perseus-Atem",
+        "Aliento petrificante",
+        "Napas Batu",
+        "ลมหายใจ\u001aหิน\u001a"
+    ],
+    "40170": [
+        "Aqua Breath",
+        "水之吐息",
+        "아쿠아 브레스",
+        "Aquasouffle",
+        "Nasshauch",
+        "Vaho acuático",
+        "Semburan Air",
+        "ลมหายใจ\u001aวารี\u001a"
+    ],
+    "40190": [
+        "Jump (FFX)",
+        "跳躍(FFX)",
+        "점프(FFX)",
+        "Sauter (FFX)",
+        "Sprung (FFX)",
+        "Salto",
+        "Jump (FFX)",
+        "Jump\u001a \u001a(\u001aFFX\u001a)\u001a"
+    ],
+    "40200": [
+        "White Wind (FFX)",
+        "純白之風(FFX)",
+        "화이트 윈드(FFX)",
+        "Mistral (FFX)",
+        "Himmelswind (FFX)",
+        "Viento blanco (FFX)",
+        "Angin Putih (FFX)",
+        "White\u001a \u001aWind\u001a \u001a(\u001aFFX\u001a)\u001a"
+    ],
+    "40210": [
+        "Bad Breath (FFX)",
+        "臭氣(FFX)",
+        "역겨운 입김(FFX)",
+        "Infection (FFX)",
+        "Mundgeruch (FFX)",
+        "Aliento fétido (FFX)",
+        "Napas Bau (FFX)",
+        "ลมหายใจ\u001aเหม็น\u001a \u001a(\u001aFFX\u001a)\u001a"
+    ],
+    "40220": [
+        "Mighty Guard",
+        "強力守護",
+        "마이티 가드",
+        "Mother",
+        "Totalabwehr",
+        "Barrera total",
+        "Mighty Guard",
+        "Mighty\u001a \u001aGuard\u001a"
+    ],
+    "40230": [
+        "Magic Mind Blast",
+        "魔法精神衝擊",
+        "마인드 블래스트",
+        "Choc mental magique",
+        "Magischer Psychoschlag",
+        "Descarga mental mágica",
+        "Magic Mind Blast",
+        "Magic\u001a \u001aMind\u001a \u001aBlast\u001a"
+    ],
+    "40240": [
+        "Mobilize",
+        "突擊準備",
+        "돌격 준비",
+        "Mobilisation",
+        "Mobilisieren",
+        "Movilizar",
+        "Mobilisasi",
+        "เคลื่อน\u001aพล\u001aเตรียม\u001aจู่โจม\u001a"
+    ],
+    "40250": [
+        "Mighty Guard (FFBE)",
+        "強力守護(FFBE)",
+        "마이티 가드(FFBE)",
+        "Mother (FFBE)",
+        "Totalabwehr (FFBE)",
+        "Barrera total (FFBE)",
+        "Mighty Guard (FFBE)",
+        "Mighty\u001a \u001aGuard\u001a \u001a(\u001aFFBE\u001a)\u001a"
+    ],
+    "40260": [
+        "Laser Eye",
+        "微波眼",
+        "메이저 아이",
+        "Fovéa",
+        "Laser-Auge",
+        "Ojo máser",
+        "Laser Eye",
+        "นัยน์ตา\u001aเลเซอร์\u001a"
+    ],
+    "40270": [
+        "Bad Breath (FFVIII)",
+        "臭氣(FFVIII)",
+        "썩은내(FFVIII)",
+        "Infection (FFVIII)",
+        "Mundgeruch (FFVIII)",
+        "Aliento fétido (FVIII)",
+        "Napas Bau (FFVIII)",
+        "Bad\u001a \u001aBreath\u001a \u001a(\u001aFFVIII\u001a)\u001a"
+    ],
+    "40280": [
+        "Electrocute",
+        "電撃",
+        "전기 충격",
+        "Firmament",
+        "Elektroschock",
+        "Electroshock",
+        "Sengatan Listrik",
+        "ช็อต\u001aไฟฟ้า\u001aสังหาร\u001a"
+    ],
+    "40290": [
+        "Acid",
+        "溶解液",
+        "용해액",
+        "Acid",
+        "Säure",
+        "Lluvia ácida",
+        "Acid",
+        "Acid\u001a"
+    ],
+    "40300": [
+        "Gatling Gun",
+        "重機關槍",
+        "개틀링포",
+        "Mitraille",
+        "Gatling-Gun",
+        "Biometralla",
+        "Gatling Gun",
+        "Gatling\u001a \u001aGun\u001a"
+    ],
+    "40310": [
+        "Fire Breath (FFVIII)",
+        "火之吐息(FFVIII)",
+        "파이어 브레스(FFVIII)",
+        "Dead Heat (FFVIII)",
+        "Feuriger Hauch (FFVIII)",
+        "Llamarada",
+        "Semburan Api (FFVIII)",
+        "ลมหายใจ\u001aอัคคี\u001a \u001a(\u001aFFVIII\u001a)\u001a"
+    ],
+    "40320": [
+        "Aqua Breath (FFVIII)",
+        "水之吐息(FFVIII)",
+        "아쿠아 브레스(FFVIII)",
+        "Fréon (FFVIII)",
+        "Nasser Hauch (FFVIII)",
+        "Vaho acuático (FFVIII)",
+        "Semburan Air (FVIII)",
+        "ลมหายใจ\u001aวารี\u001a \u001a(\u001aFFVIII\u001a)\u001a"
+    ],
+    "40330": [
+        "Micro Missiles",
+        "微型導彈",
+        "마이크로 미사일",
+        "Micro Missiles",
+        "Mikroraketen",
+        "Micromisiles",
+        "Micro Missiles",
+        "Micro\u001a \u001aMissiles\u001a"
+    ],
+    "40340": [
+        "Mighty Guard (FFVIII)",
+        "強力守護(FFVIII)",
+        "마이티 가드(FFVIII)",
+        "Mother (FFVIII)",
+        "Total-Abwehr (FFVIII)",
+        "Barrera total (FFVIII)",
+        "Mighty Guard (FFVIII)",
+        "Mighty\u001a \u001aGuard\u001a \u001a(\u001aFFVIII\u001a)\u001a"
+    ],
+    "40350": [
+        "Ray-Bomb",
+        "光閃炸彈",
+        "레이 봄",
+        "Shockwave",
+        "Strahlenbombe",
+        "Rayo bomba",
+        "Bom Cahaya",
+        "ระเบิด\u001aพลัง\u001aแสง\u001a"
+    ],
+    "40360": [
+        "White Wind (FFVIII)",
+        "純白之風(FFVIII)",
+        "화이트 윈드(FFVIII)",
+        "Mistral (FFVIII)",
+        "Weißer Wind (FFVIII)",
+        "Viento blanco (FFVIII)",
+        "Angin Putih (FFVIII)",
+        "White\u001a \u001aWind\u001a \u001a(\u001aFFVIII\u001a)\u001a"
+    ],
+    "40370": [
+        "Silver Hammer",
+        "白銀鐵槌",
+        "백은의 철퇴",
+        "Marteau d'argent",
+        "Silberhammer",
+        "Martillo plateado",
+        "Palu Perak",
+        "ค้อน\u001aเงิน\u001a"
+    ],
+    "40380": [
+        "White Wind (FFVI)",
+        "純白之風(FFVI)",
+        "화이트 윈드(FFVI)",
+        "Mistral (FFVI)",
+        "Himmelswind (FFVI)",
+        "Viento albo (FFVI)",
+        "Angin Putih (FFVI)",
+        "White\u001a \u001aWind\u001a \u001a(\u001aFFVI\u001a)\u001a"
+    ],
+    "40390": [
+        "1000 Needles (FFVI)",
+        "千針刺(FFVI)",
+        "바늘 1000개(FFVI)",
+        "1000 épines (FFVI)",
+        "1000 Nadeln (FFVI)",
+        "1000 espinas (FFVI)",
+        "1.000 Jarum (FFVI)",
+        "เข็ม\u001a1000\u001a \u001aเล่ม\u001a \u001a(\u001aFFVI\u001a)\u001a"
+    ],
+    "40400": [
+        "Aqua Breath (FFVI)",
+        "水之吐息(FFVI)",
+        "아쿠아 브레스(FFVI)",
+        "Aquasouffle (FFVI)",
+        "Aqua-Atem (FFVI)",
+        "Aliento acuoso (FFVI)",
+        "Semburan Air (FFVI)",
+        "ลมหายใจ\u001aวารี\u001a \u001a(\u001aFFVI\u001a)\u001a"
+    ],
+    "40410": [
+        "Mighty Guard (FFVI)",
+        "強力守護(FFVI)",
+        "강력 방어(FFVI)",
+        "Mother (FFVI)",
+        "Totalabwehr (FFVI)",
+        "Barrera total (FFVI)",
+        "Mighty Guard (FFVI)",
+        "Mighty\u001a \u001aGuard\u001a \u001a(\u001aFFVI\u001a)\u001a"
+    ],
+    "40420": [
+        "Bad Breath (FFVI)",
+        "臭氣(FFVI)",
+        "썩은내(FFVI)",
+        "Infection (FFVI)",
+        "Mundgeruch (FFVI)",
+        "Aliento fétido (FFVI)",
+        "Napas Bau (FFVI)",
+        "ลมหายใจ\u001aเหม็น\u001a \u001a(\u001aFFVI\u001a)\u001a"
+    ],
+    "40430": [
+        "Grand Delta",
+        "大三角",
+        "대삼각",
+        "Trine aspect",
+        "Großdelta",
+        "Gran delta",
+        "Grand Delta",
+        "Grand\u001a \u001aDelta\u001a"
+    ],
+    "40440": [
+        "Force Field",
+        "原力結界",
+        "포스 필드",
+        "Champ de force",
+        "Kraftfeld",
+        "Campo de fuerza",
+        "Force Field",
+        "Force\u001a \u001aField\u001a"
+    ],
+    "40450": [
+        "White Wind",
+        "純白之風",
+        "화이트 윈드",
+        "Mistral",
+        "Himmelswind",
+        "Viento blanco",
+        "Angin Putih",
+        "White\u001a \u001aWind\u001a"
+    ],
+    "40460": [
+        "Bad Breath",
+        "臭氣",
+        "역겨운 입김",
+        "Infection",
+        "Mundgeruch",
+        "Aliento fétido",
+        "Napas Bau",
+        "Bad\u001a \u001aBreath\u001a"
+    ],
+    "40470": [
+        "Mighty Guard",
+        "非凡防禦",
+        "마이티 가드",
+        "Mother",
+        "Totalabwehr",
+        "Barrera total",
+        "Mighty Guard",
+        "Mighty\u001a \u001aGuard\u001a"
+    ],
+    "40480": [
+        "Stone Breath",
+        "石化吐息",
+        "석화 브레스",
+        "Pétrasouffle",
+        "Perseus-Atem",
+        "Aliento petrificante",
+        "Napas Batu",
+        "Stone\u001a \u001aBreath\u001a"
+    ],
+    "40490": [
+        "Banish (FFIX)",
+        "放逐(FFIX)",
+        "배니시(FFIX)",
+        "Bannissement (FFIX)",
+        "Verschwinden (FFIX)",
+        "Invisible",
+        "Banish (FFIX)",
+        "Banish\u001a \u001a(\u001aFFIX\u001a)\u001a"
+    ],
+    "40500": [
+        "Pumpkin Head",
+        "南瓜頭",
+        "펌프킨 헤드",
+        "Pumpkin head",
+        "Kürbisfalle",
+        "Calabazazo",
+        "Pumpkin Head",
+        "Pumpkin\u001a \u001aHead\u001a"
+    ],
+    "70010": [
+        "Thundaga",
+        "大雷電",
+        "선더가",
+        "Foudre X",
+        "Blitzga",
+        "Electro++",
+        "Thundaga",
+        "Thundaga\u001a"
+    ],
+    "70020": [
+        "Thundaga",
+        "大雷電",
+        "선더가",
+        "Foudre X",
+        "Blitzga",
+        "Electro++",
+        "Thundaga",
+        "Thundaga\u001a"
+    ],
+    "70030": [
+        "Curaga",
+        "超療傷",
+        "케알가",
+        "Soin Max",
+        "Vitaga",
+        "Cura+++",
+        "Curaga",
+        "Curaga\u001a"
+    ],
+    "70040": [
+        "Curaga",
+        "超療傷",
+        "케알가",
+        "Soin Max",
+        "Vitaga",
+        "Cura+++",
+        "Curaga",
+        "Curaga\u001a"
+    ],
+    "70050": [
+        "Curaga",
+        "超療傷",
+        "케알가",
+        "Soin Max",
+        "Vitaga",
+        "Cura+++",
+        "Curaga",
+        "Curaga\u001a"
+    ],
+    "70060": [
+        "Curaga",
+        "超療傷",
+        "케알가",
+        "Soin Max",
+        "Vitaga",
+        "Cura+++",
+        "Curaga",
+        "Curaga\u001a"
+    ],
+    "70070": [
+        "Barthundara",
+        "全抗雷",
+        "바선더라",
+        "Anti-Foudre +",
+        "Exblitzra",
+        "AntiRayo+",
+        "Barthundara",
+        "Barthundara\u001a"
+    ],
+    "70080": [
+        "Barthundara",
+        "全抗雷",
+        "바선더라",
+        "Anti-Foudre +",
+        "Exblitzra",
+        "AntiRayo+",
+        "Barthundara",
+        "Barthundara\u001a"
+    ],
+    "70090": [
+        "Raise",
+        "復活",
+        "레이즈",
+        "Vie",
+        "Engel",
+        "Lázaro",
+        "Raise",
+        "Raise\u001a"
+    ],
+    "70100": [
+        "Raise",
+        "復活",
+        "레이즈",
+        "Vie",
+        "Engel",
+        "Lázaro",
+        "Raise",
+        "Raise\u001a"
+    ],
+    "70110": [
+        "Curada",
+        "齊療傷",
+        "케알다",
+        "Soin X",
+        "Vigra",
+        "Cura++",
+        "Curada",
+        "Curada\u001a"
+    ],
+    "70120": [
+        "Curada",
+        "齊療傷",
+        "케알다",
+        "Soin X",
+        "Vigra",
+        "Cura++",
+        "Curada",
+        "Curada\u001a"
+    ],
+    "70130": [
+        "Ultima",
+        "究極",
+        "알테마",
+        "Ultima",
+        "Ultima",
+        "Artema",
+        "Ultima",
+        "Ultima\u001a"
+    ],
+    "70140": [
+        "Ultima",
+        "究極",
+        "알테마",
+        "Ultima",
+        "Ultima",
+        "Artema",
+        "Ultima",
+        "Ultima\u001a"
+    ],
+    "70150": [
+        "Full-Life",
+        "大復活",
+        "어레이즈",
+        "Vie Max",
+        "Erzengel",
+        "Lázaro+",
+        "Full-Life",
+        "Full-Life\u001a"
+    ],
+    "70160": [
+        "Full-Life",
+        "大復活",
+        "어레이즈",
+        "Vie Max",
+        "Erzengel",
+        "Lázaro+",
+        "Full-Life",
+        "Full-Life\u001a"
+    ],
+    "70170": [
+        "Aeroga",
+        "大勁風",
+        "에어로가",
+        "Vent X",
+        "Aeroga",
+        "Aero++",
+        "Aeroga",
+        "Aeroga\u001a"
+    ],
+    "70180": [
+        "Aeroga",
+        "大勁風",
+        "에어로가",
+        "Vent X",
+        "Aeroga",
+        "Aero++",
+        "Aeroga",
+        "Aeroga\u001a"
+    ],
+    "70190": [
+        "Waterga",
+        "大流水",
+        "워터가",
+        "Eau X",
+        "Aquaga",
+        "Aqua++",
+        "Waterga",
+        "Waterga\u001a"
+    ],
+    "70200": [
+        "Waterga",
+        "大流水",
+        "워터가",
+        "Eau X",
+        "Aquaga",
+        "Aqua++",
+        "Waterga",
+        "Waterga\u001a"
+    ],
+    "70201": [
+        "Waterga",
+        "大流水",
+        "워터가",
+        "Eau X",
+        "Aquaga",
+        "Aqua++",
+        "Waterga",
+        "Waterga\u001a"
+    ],
+    "70210": [
+        "Meteor",
+        "隕石",
+        "메테오",
+        "Météore",
+        "Meteo",
+        "Meteo",
+        "Meteor",
+        "Meteor\u001a"
+    ],
+    "70220": [
+        "Meteor",
+        "隕石",
+        "메테오",
+        "Météore",
+        "Meteo",
+        "Meteo",
+        "Meteor",
+        "Meteor\u001a"
+    ],
+    "70230": [
+        "Reflect",
+        "反射",
+        "리플렉트",
+        "Boomerang",
+        "Reflek",
+        "Espejo",
+        "Reflect",
+        "Reflect\u001a"
+    ],
+    "70240": [
+        "Reflect",
+        "反射",
+        "리플렉트",
+        "Boomerang",
+        "Reflek",
+        "Espejo",
+        "Reflect",
+        "Reflect\u001a"
+    ],
+    "70250": [
+        "Firaga",
+        "大火焰",
+        "파이가",
+        "Feu X",
+        "Feuga",
+        "Piro++",
+        "Firaga",
+        "Firaga\u001a"
+    ],
+    "70260": [
+        "Firaga",
+        "大火焰",
+        "파이가",
+        "Feu X",
+        "Feuga",
+        "Piro++",
+        "Firaga",
+        "Firaga\u001a"
+    ],
+    "70270": [
+        "Blizzaga",
+        "大暴雪",
+        "블리자가",
+        "Glace X",
+        "Eisga",
+        "Hielo++",
+        "Blizzaga",
+        "Blizzaga\u001a"
+    ],
+    "70280": [
+        "Blizzaga",
+        "大暴雪",
+        "블리자가",
+        "Glace X",
+        "Eisga",
+        "Hielo++",
+        "Blizzaga",
+        "Blizzaga\u001a"
+    ],
+    "70290": [
+        "Thundaga",
+        "大雷電",
+        "선더가",
+        "Foudre X",
+        "Blitzga",
+        "Electro++",
+        "Thundaga",
+        "Thundaga\u001a"
+    ],
+    "70300": [
+        "Thundaga",
+        "大雷電",
+        "선더가",
+        "Foudre X",
+        "Blitzga",
+        "Electro++",
+        "Thundaga",
+        "Thundaga\u001a"
+    ],
+    "70310": [
+        "Doomsday",
+        "聖戰",
+        "크루세이더",
+        "Apocalypse",
+        "Eroberer",
+        "Hecatombe",
+        "Doomsday",
+        "Doomsday\u001a"
+    ],
+    "70320": [
+        "Doomsday",
+        "聖戰",
+        "크루세이더",
+        "Apocalypse",
+        "Eroberer",
+        "Hecatombe",
+        "Doomsday",
+        "Doomsday\u001a"
+    ],
+    "70330": [
+        "Holy",
+        "神聖",
+        "홀리",
+        "Sidéral",
+        "Sanctus",
+        "Sanctus",
+        "Holy",
+        "Holy\u001a"
+    ],
+    "70340": [
+        "Holy",
+        "神聖",
+        "홀리",
+        "Sidéral",
+        "Sanctus",
+        "Sanctus",
+        "Holy",
+        "Holy\u001a"
+    ],
+    "70350": [
+        "Flare",
+        "核爆",
+        "플레어",
+        "Brasier",
+        "Flamme",
+        "Fulgor",
+        "Flare",
+        "Flare\u001a"
+    ],
+    "70360": [
+        "Flare",
+        "核爆",
+        "플레어",
+        "Brasier",
+        "Flamme",
+        "Fulgor",
+        "Flare",
+        "Flare\u001a"
+    ],
+    "70370": [
+        "Astral Fire",
+        "星極火",
+        "천상의 화염",
+        "Feu astral",
+        "Astralfeuer",
+        "Fuego astral",
+        "Astral Fire",
+        "Astral\u001a \u001aFire\u001a"
+    ],
+    "70380": [
+        "Astral Fire",
+        "星極火",
+        "천상의 화염",
+        "Feu astral",
+        "Astralfeuer",
+        "Fuego astral",
+        "Astral Fire",
+        "Astral\u001a \u001aFire\u001a"
+    ],
+    "70390": [
+        "Astral Blizzard",
+        "靈極冰",
+        "저승의 냉기",
+        "Glace ombrale",
+        "Astralblizzard",
+        "Ventisca astral",
+        "Astral Blizzard",
+        "Astral\u001a \u001aBlizzard\u001a"
+    ],
+    "70400": [
+        "Astral Blizzard",
+        "靈極冰",
+        "저승의 냉기",
+        "Glace ombrale",
+        "Astralblizzard",
+        "Ventisca astral",
+        "Astral Blizzard",
+        "Astral\u001a \u001aBlizzard\u001a"
+    ],
+    "70410": [
+        "Impact",
+        "衝擊",
+        "임팩트",
+        "Impact",
+        "Aufprall",
+        "Impacto",
+        "Impact",
+        "Impact\u001a"
+    ],
+    "70420": [
+        "Impact",
+        "衝擊",
+        "임팩트",
+        "Impact",
+        "Aufprall",
+        "Impacto",
+        "Impact",
+        "Impact\u001a"
+    ],
+    "70432": [
+        "Quake",
+        "地槌",
+        "퀘이크",
+        "Séisme",
+        "Beben",
+        "Seísmo",
+        "Quake",
+        "Quake\u001a"
+    ],
+    "70433": [
+        "Quake",
+        "地槌",
+        "퀘이크",
+        "Séisme",
+        "Beben",
+        "Seísmo",
+        "Quake",
+        "Quake\u001a"
+    ],
+    "70434": [
+        "Flood",
+        "洪水",
+        "플러드",
+        "Inondation",
+        "Flut",
+        "Inundación",
+        "Flood",
+        "Flood\u001a"
+    ],
+    "70435": [
+        "Flood",
+        "洪水",
+        "플러드",
+        "Inondation",
+        "Flut",
+        "Inundación",
+        "Flood",
+        "Flood\u001a"
+    ],
+    "70436": [
+        "Raging Ice",
+        "烈冰",
+        "조블리자",
+        "Glace rageuse",
+        "Wütendes Eis",
+        "Hielo furibundo",
+        "Raging Ice",
+        "Raging\u001a \u001aIce\u001a"
+    ],
+    "70437": [
+        "Raging Ice",
+        "烈冰",
+        "조블리자",
+        "Glace rageuse",
+        "Wütendes Eis",
+        "Hielo furibundo",
+        "Raging Ice",
+        "Raging\u001a \u001aIce\u001a"
+    ],
+    "70438": [
+        "Freeze",
+        "冰結",
+        "프리즈",
+        "Gel",
+        "Frost",
+        "Congelación",
+        "Freeze",
+        "Freeze\u001a"
+    ],
+    "70439": [
+        "Freeze",
+        "冰結",
+        "프리즈",
+        "Gel",
+        "Frost",
+        "Congelación",
+        "Freeze",
+        "Freeze\u001a"
+    ],
+    "70440": [
+        "Tornado",
+        "龍捲風",
+        "토네이도",
+        "Tornade",
+        "Tornado",
+        "Tornado",
+        "Tornado",
+        "Tornado\u001a"
+    ],
+    "70441": [
+        "Tornado",
+        "龍捲風",
+        "토네이도",
+        "Tornade",
+        "Tornado",
+        "Tornado",
+        "Tornado",
+        "Tornado\u001a"
+    ],
+    "70442": [
+        "Quake",
+        "地槌",
+        "퀘이크",
+        "Séisme",
+        "Beben",
+        "Seísmo",
+        "Quake",
+        "Quake\u001a"
+    ],
+    "70443": [
+        "Quake",
+        "地槌",
+        "퀘이크",
+        "Séisme",
+        "Beben",
+        "Seísmo",
+        "Quake",
+        "Quake\u001a"
+    ],
+    "70444": [
+        "Flood II",
+        "洪水II",
+        "플러드II",
+        "Déluge II",
+        "Flut II",
+        "Inundación II",
+        "Flood II",
+        "Flood\u001a \u001aII\u001a"
+    ],
+    "70445": [
+        "Flood II",
+        "洪水II",
+        "플러드II",
+        "Déluge II",
+        "Flut II",
+        "Inundación II",
+        "Flood II",
+        "Flood\u001a \u001aII\u001a"
+    ],
+    "70446": [
+        "Flare II",
+        "核爆II",
+        "플레어II",
+        "Brasier II",
+        "Flamme II",
+        "Fulgor II",
+        "Flare II",
+        "Flare\u001a \u001aII\u001a"
+    ],
+    "70447": [
+        "Flare II",
+        "核爆II",
+        "플레어II",
+        "Brasier II",
+        "Flamme II",
+        "Fulgor II",
+        "Flare II",
+        "Flare\u001a \u001aII\u001a"
+    ],
+    "70448": [
+        "Meltdown",
+        "熔毀",
+        "멜트 다운",
+        "Fusion",
+        "Kernschmelze",
+        "Fusión",
+        "Meltdown",
+        "Meltdown\u001a"
+    ],
+    "70449": [
+        "Meltdown",
+        "熔毀",
+        "멜트 다운",
+        "Fusion",
+        "Kernschmelze",
+        "Fusión",
+        "Meltdown",
+        "Meltdown\u001a"
+    ],
+    "70450": [
+        "Raging Fire",
+        "烈火",
+        "조파이어",
+        "Feu rageur",
+        "Wütendes Feuer",
+        "Fuego furibundo",
+        "Raging Fire",
+        "Raging\u001a \u001aFire\u001a"
+    ],
+    "70451": [
+        "Raging Fire",
+        "烈火",
+        "조파이어",
+        "Feu rageur",
+        "Wütendes Feuer",
+        "Fuego furibundo",
+        "Raging Fire",
+        "Raging\u001a \u001aFire\u001a"
+    ],
+    "70452": [
+        "Waterja",
+        "強流水",
+        "워터쟈",
+        "Eau max",
+        "Aquaka",
+        "Aqua+++",
+        "Waterja",
+        "Waterja\u001a"
+    ],
+    "70453": [
+        "Waterja",
+        "強流水",
+        "워터쟈",
+        "Eau max",
+        "Aquaka",
+        "Aqua+++",
+        "Waterja",
+        "Waterja\u001a"
+    ],
+    "70454": [
+        "Waterja",
+        "強流水",
+        "워터쟈",
+        "Eau max",
+        "Aquaka",
+        "Aqua+++",
+        "Waterja",
+        "Waterja\u001a"
+    ],
+    "70455": [
+        "Protectga",
+        "超物防護",
+        "프로테가",
+        "Bouclier +",
+        "Protega",
+        "Coraza+",
+        "Protectga",
+        "Protectga\u001a"
+    ],
+    "70456": [
+        "Protectga",
+        "超物防護",
+        "프로테가",
+        "Bouclier +",
+        "Protega",
+        "Coraza+",
+        "Protectga",
+        "Protectga\u001a"
+    ],
+    "70457": [
+        "Shellga",
+        "廣魔防殼",
+        "셸가",
+        "Barrière X",
+        "Vallga",
+        "Escudo+",
+        "Shellga",
+        "Shellga\u001a"
+    ],
+    "70458": [
+        "Shellga",
+        "廣魔防殼",
+        "셸가",
+        "Barrière X",
+        "Vallga",
+        "Escudo+",
+        "Shellga",
+        "Shellga\u001a"
+    ],
+    "70459": [
+        "Faith",
+        "信念",
+        "페이스",
+        "Foi",
+        "Ener",
+        "Fe",
+        "Faith",
+        "Faith\u001a"
+    ],
+    "70460": [
+        "Faith",
+        "信念",
+        "페이스",
+        "Foi",
+        "Ener",
+        "Fe",
+        "Faith",
+        "Faith\u001a"
+    ],
+    "70461": [
+        "Comet",
+        "彗星",
+        "코멧",
+        "Comète",
+        "Komet",
+        "Cometa",
+        "Comet",
+        "Comet\u001a"
+    ],
+    "70462": [
+        "Comet",
+        "彗星",
+        "코멧",
+        "Comète",
+        "Komet",
+        "Cometa",
+        "Comet",
+        "Comet\u001a"
+    ],
+    "70463": [
+        "Banishga",
+        "強放逐",
+        "배니시가",
+        "Bannissement X",
+        "Exkommunikation",
+        "Tenue++",
+        "Banishga",
+        "Banishga\u001a"
+    ],
+    "70464": [
+        "Banishga",
+        "強放逐",
+        "배니시가",
+        "Bannissement X",
+        "Exkommunikation",
+        "Tenue++",
+        "Banishga",
+        "Banishga\u001a"
+    ],
+    "70465": [
+        "Banishga",
+        "強放逐",
+        "배니시가",
+        "Bannissement X",
+        "Exkommunikation",
+        "Tenue++",
+        "Banishga",
+        "Banishga\u001a"
+    ],
+    "70466": [
+        "Doomsday",
+        "聖戰",
+        "크루세이더",
+        "Apocalypse",
+        "Todestribunal",
+        "Hecatombe",
+        "Doomsday",
+        "Doomsday\u001a"
+    ],
+    "70467": [
+        "Doomsday",
+        "聖戰",
+        "크루세이더",
+        "Apocalypse",
+        "Todestribunal",
+        "Hecatombe",
+        "Doomsday",
+        "Doomsday\u001a"
+    ],
+    "70468": [
+        "Bravery",
+        "勇氣",
+        "브레이브",
+        "Bravoure",
+        "Courage",
+        "Bravura",
+        "Bravery",
+        "Bravery\u001a"
+    ],
+    "70469": [
+        "Bravery",
+        "勇氣",
+        "브레이브",
+        "Bravoure",
+        "Courage",
+        "Bravura",
+        "Bravery",
+        "Bravery\u001a"
+    ],
+    "70470": [
+        "Thundaja",
+        "強雷電",
+        "선더쟈",
+        "Foudre max",
+        "Blitzka",
+        "Electro+++",
+        "Thundaja",
+        "Thundaja\u001a"
+    ],
+    "70471": [
+        "Thundaja",
+        "強雷電",
+        "선더쟈",
+        "Foudre max",
+        "Blitzka",
+        "Electro+++",
+        "Thundaja",
+        "Thundaja\u001a"
+    ],
+    "70472": [
+        "Freeze",
+        "冰結",
+        "프리즈",
+        "Gel",
+        "Frost",
+        "Congelación",
+        "Freeze",
+        "Freeze\u001a"
+    ],
+    "70473": [
+        "Blizzaja",
+        "強暴雪",
+        "블리자쟈",
+        "Glace max",
+        "Eiska",
+        "Hielo+++",
+        "Blizzaja",
+        "Blizzaja\u001a"
+    ],
+    "70474": [
+        "Blizzaja",
+        "強暴雪",
+        "블리자쟈",
+        "Glace max",
+        "Eiska",
+        "Hielo+++",
+        "Blizzaja",
+        "Blizzaja\u001a"
+    ],
+    "70475": [
+        "Blizzaja",
+        "強暴雪",
+        "블리자쟈",
+        "Glace max",
+        "Eiska",
+        "Hielo+++",
+        "Blizzaja",
+        "Blizzaja\u001a"
+    ],
+    "70476": [
+        "Thundaja",
+        "強雷電",
+        "선더쟈",
+        "Foudre max",
+        "Blitzka",
+        "Electro+++",
+        "Thundaja",
+        "Thundaja\u001a"
+    ],
+    "70477": [
+        "Stonga",
+        "大落石",
+        "스톤가",
+        "Terre X",
+        "Terraga",
+        "Piedra++",
+        "Stonga",
+        "Stonga\u001a"
+    ],
+    "70478": [
+        "Stonga",
+        "大落石",
+        "스톤가",
+        "Terre X",
+        "Terraga",
+        "Piedra++",
+        "Stonga",
+        "Stonga\u001a"
+    ],
+    "70479": [
+        "Tornado",
+        "龍捲風",
+        "토네이도",
+        "Tornade",
+        "Tornado",
+        "Tornado",
+        "Tornado",
+        "Tornado\u001a"
+    ],
+    "70480": [
+        "Blizzaga",
+        "大暴雪",
+        "블리자가",
+        "Glace X",
+        "Eisga",
+        "Hielo++",
+        "Blizzaga",
+        "Blizzaga\u001a"
+    ],
+    "70481": [
+        "Aeroga",
+        "大勁風",
+        "에어로가",
+        "Vent X",
+        "Aeroga",
+        "Aero++",
+        "Aeroga",
+        "Aeroga\u001a"
+    ],
+    "70482": [
+        "Firaga",
+        "大火焰",
+        "파이가",
+        "Feu X",
+        "Feuga",
+        "Piro++",
+        "Firaga",
+        "Firaga\u001a"
+    ],
+    "70483": [
+        "Flare",
+        "核爆",
+        "플레어",
+        "Brasier",
+        "Flamme",
+        "Fulgor",
+        "Flare",
+        "Flare\u001a"
+    ],
+    "70486": [
+        "Darkga",
+        "大暗黑",
+        "다크가",
+        "Ténèbres X",
+        "Nega",
+        "Sombra++",
+        "Darkga",
+        "Darkga\u001a"
+    ],
+    "70487": [
+        "Darkga",
+        "大暗黑",
+        "다크가",
+        "Ténèbres X",
+        "Nega",
+        "Sombra++",
+        "Darkga",
+        "Darkga\u001a"
+    ],
+    "70488": [
+        "Darkga",
+        "大暗黑",
+        "다크가",
+        "Ténèbres X",
+        "Nega",
+        "Sombra++",
+        "Darkga",
+        "Darkga\u001a"
+    ],
+    "70489": [
+        "Flood",
+        "洪水",
+        "플러드",
+        "Inondation",
+        "Flut",
+        "Inundación",
+        "Flood",
+        "Flood\u001a"
+    ],
+    "70490": [
+        "Burst (FFBE)",
+        "炸裂(FFBE)",
+        "버스트(FFBE)",
+        "Implosion (FFBE)",
+        "Einschlag (FFBE)",
+        "Descarga (FFBE)",
+        "Burst (FFBE)",
+        "Burst\u001a \u001a(\u001aFFBE\u001a)\u001a"
+    ],
+    "70491": [
+        "Burst (FFBE)",
+        "炸裂(FFBE)",
+        "버스트(FFBE)",
+        "Implosion (FFBE)",
+        "Einschlag (FFBE)",
+        "Descarga (FFBE)",
+        "Burst (FFBE)",
+        "Burst\u001a \u001a(\u001aFFBE\u001a)\u001a"
+    ],
+    "70492": [
+        "Burst (FFBE)",
+        "炸裂(FFBE)",
+        "버스트(FFBE)",
+        "Implosion (FFBE)",
+        "Einschlag (FFBE)",
+        "Descarga (FFBE)",
+        "Burst (FFBE)",
+        "Burst\u001a \u001a(\u001aFFBE\u001a)\u001a"
+    ],
+    "70493": [
+        "Thundaga",
+        "大雷電",
+        "선더가",
+        "Foudre X",
+        "Blitzga",
+        "Electro++",
+        "Thundaga",
+        "Thundaga\u001a"
+    ],
+    "70494": [
+        "Apocalypse",
+        "末世",
+        "아포칼립스",
+        "Apocalypse",
+        "Apokalypse",
+        "Apocalipsis",
+        "Apocalypse",
+        "Apocalypse\u001a"
+    ],
+    "70495": [
+        "Apocalypse",
+        "末世",
+        "아포칼립스",
+        "Apocalypse",
+        "Apokalypse",
+        "Apocalipsis",
+        "Apocalypse",
+        "Apocalypse\u001a"
+    ],
+    "70496": [
+        "Apocalypse",
+        "末世",
+        "아포칼립스",
+        "Apocalypse",
+        "Apokalypse",
+        "Apocalipsis",
+        "Apocalypse",
+        "Apocalypse\u001a"
+    ],
+    "70497": [
+        "Quake",
+        "地槌",
+        "퀘이크",
+        "Séisme",
+        "Beben",
+        "Seísmo",
+        "Quake",
+        "Quake\u001a"
+    ],
+    "70498": [
+        "Protectga",
+        "超物防護",
+        "프로테가",
+        "Bouclier +",
+        "Protega",
+        "Coraza+",
+        "Protectga",
+        "Protectga\u001a"
+    ],
+    "70499": [
+        "Fira",
+        "中火焰",
+        "파이라",
+        "Feu +",
+        "Feura",
+        "Piro+",
+        "Fira",
+        "Fira\u001a"
+    ],
+    "70500": [
+        "Fira",
+        "中火焰",
+        "파이라",
+        "Feu +",
+        "Feura",
+        "Piro+",
+        "Fira",
+        "Fira\u001a"
+    ],
+    "70501": [
+        "Fira",
+        "中火焰",
+        "파이라",
+        "Feu +",
+        "Feura",
+        "Piro+",
+        "Fira",
+        "Fira\u001a"
+    ],
+    "70502": [
+        "Blizzara",
+        "中暴雪",
+        "블리자라",
+        "Glace +",
+        "Eisra",
+        "Hielo+",
+        "Blizzara",
+        "Blizzara\u001a"
+    ],
+    "70503": [
+        "Blizzara",
+        "中暴雪",
+        "블리자라",
+        "Glace +",
+        "Eisra",
+        "Hielo+",
+        "Blizzara",
+        "Blizzara\u001a"
+    ],
+    "70504": [
+        "Blizzara",
+        "中暴雪",
+        "블리자라",
+        "Glace +",
+        "Eisra",
+        "Hielo+",
+        "Blizzara",
+        "Blizzara\u001a"
+    ],
+    "70505": [
+        "Thundara",
+        "中雷電",
+        "선더라",
+        "Foudre +",
+        "Blitzra",
+        "Electro+",
+        "Thundara",
+        "Thundara\u001a"
+    ],
+    "70506": [
+        "Thundara",
+        "中雷電",
+        "선더라",
+        "Foudre +",
+        "Blitzra",
+        "Electro+",
+        "Thundara",
+        "Thundara\u001a"
+    ],
+    "70507": [
+        "Thundara",
+        "中雷電",
+        "선더라",
+        "Foudre +",
+        "Blitzra",
+        "Electro+",
+        "Thundara",
+        "Thundara\u001a"
+    ],
+    "70508": [
+        "Watera",
+        "中流水",
+        "워터라",
+        "Eau +",
+        "Aquara",
+        "Aqua+",
+        "Watera",
+        "Watera\u001a"
+    ],
+    "70509": [
+        "Watera",
+        "中流水",
+        "워터라",
+        "Eau +",
+        "Aquara",
+        "Aqua+",
+        "Watera",
+        "Watera\u001a"
+    ],
+    "70510": [
+        "Watera",
+        "中流水",
+        "워터라",
+        "Eau +",
+        "Aquara",
+        "Aqua+",
+        "Watera",
+        "Watera\u001a"
+    ],
+    "70511": [
+        "Aerora",
+        "中勁風",
+        "에어로라",
+        "Vent +",
+        "Aerora",
+        "Aero+",
+        "Aerora",
+        "Aerora\u001a"
+    ],
+    "70512": [
+        "Aerora",
+        "中勁風",
+        "에어로라",
+        "Vent +",
+        "Aerora",
+        "Aero+",
+        "Aerora",
+        "Aerora\u001a"
+    ],
+    "70513": [
+        "Aerora",
+        "中勁風",
+        "에어로라",
+        "Vent +",
+        "Aerora",
+        "Aero+",
+        "Aerora",
+        "Aerora\u001a"
+    ],
+    "70514": [
+        "Stonra",
+        "中落石",
+        "스톤라",
+        "Terre +",
+        "Terrara",
+        "Piedra+",
+        "Stonra",
+        "Stonra\u001a"
+    ],
+    "70515": [
+        "Stonra",
+        "中落石",
+        "스톤라",
+        "Terre +",
+        "Terrara",
+        "Piedra+",
+        "Stonra",
+        "Stonra\u001a"
+    ],
+    "70516": [
+        "Stonra",
+        "中落石",
+        "스톤라",
+        "Terre +",
+        "Terrara",
+        "Piedra+",
+        "Stonra",
+        "Stonra\u001a"
+    ],
+    "70517": [
+        "Darkra",
+        "中暗黑",
+        "다크라",
+        "Ténèbres +",
+        "Negra",
+        "Sombra+",
+        "Darkra",
+        "Darkra\u001a"
+    ],
+    "70518": [
+        "Darkra",
+        "中暗黑",
+        "다크라",
+        "Ténèbres +",
+        "Negra",
+        "Sombra+",
+        "Darkra",
+        "Darkra\u001a"
+    ],
+    "70519": [
+        "Darkra",
+        "中暗黑",
+        "다크라",
+        "Ténèbres +",
+        "Negra",
+        "Sombra+",
+        "Darkra",
+        "Darkra\u001a"
+    ],
+    "70520": [
+        "Aeroja",
+        "強勁風",
+        "에어로쟈",
+        "Vent max",
+        "Aeroka",
+        "Aero+++",
+        "Aeroja",
+        "Aeroja\u001a"
+    ],
+    "70521": [
+        "Aeroja",
+        "強勁風",
+        "에어로쟈",
+        "Vent max",
+        "Aeroka",
+        "Aero+++",
+        "Aeroja",
+        "Aeroja\u001a"
+    ],
+    "70522": [
+        "Aeroja",
+        "強勁風",
+        "에어로쟈",
+        "Vent max",
+        "Aeroka",
+        "Aero+++",
+        "Aeroja",
+        "Aeroja\u001a"
+    ],
+    "70523": [
+        "Aura",
+        "靈氣",
+        "아우라",
+        "Aura",
+        "Aura",
+        "Aura",
+        "Aura",
+        "Aura\u001a"
+    ],
+    "70525": [
+        "Aura",
+        "靈氣",
+        "아우라",
+        "Aura",
+        "Aura",
+        "Aura",
+        "Aura",
+        "Aura\u001a"
+    ],
+    "70526": [
+        "Shellga",
+        "廣魔防殼",
+        "셸가",
+        "Barrière X",
+        "Vallga",
+        "Escudo+",
+        "Shellga",
+        "Shellga\u001a"
+    ],
+    "70527": [
+        "Stonga",
+        "大落石",
+        "스톤가",
+        "Terre X",
+        "Terraga",
+        "Piedra++",
+        "Stonga",
+        "Stonga\u001a"
+    ],
+    "70528": [
+        "Stonja",
+        "強落石",
+        "스톤쟈",
+        "Terre max",
+        "Terraka",
+        "Piedra+++",
+        "Stonja",
+        "Stonja\u001a"
+    ],
+    "70529": [
+        "Stonja",
+        "強落石",
+        "스톤쟈",
+        "Terre max",
+        "Terraka",
+        "Piedra+++",
+        "Stonja",
+        "Stonja\u001a"
+    ],
+    "70530": [
+        "Stonja",
+        "強落石",
+        "스톤쟈",
+        "Terre max",
+        "Terraka",
+        "Piedra+++",
+        "Stonja",
+        "Stonja\u001a"
+    ],
+    "70531": [
+        "Fire VIII",
+        "火焰8",
+        "파이어 8",
+        "Feu VIII",
+        "Feuer VIII",
+        "Piro VIII",
+        "Fire VIII",
+        "Fire\u001a \u001aVIII\u001a"
+    ],
+    "70532": [
+        "Fire XII",
+        "火焰12",
+        "파이어 12",
+        "Feu XII",
+        "Feuer XII",
+        "Piro XII",
+        "Fire XII",
+        "Fire\u001a \u001aXII\u001a"
+    ],
+    "70533": [
+        "Fire XVI",
+        "火焰16",
+        "파이어 16",
+        "Feu XVI",
+        "Feuer XVI",
+        "Piro XVI",
+        "Fire XVI",
+        "Fire\u001a \u001aXVI\u001a"
+    ],
+    "70537": [
+        "Thunder VIII",
+        "雷電8",
+        "선더 8",
+        "Foudre VIII",
+        "Blitz VIII",
+        "Electro Nv. 8",
+        "Thunder VIII",
+        "Thunder\u001a \u001aVIII\u001a"
+    ],
+    "70538": [
+        "Thunder XII",
+        "雷電12",
+        "선더 12",
+        "Foudre XII",
+        "Blitz XII",
+        "Electro Nv. 12",
+        "Thunder XII",
+        "Thunder\u001a \u001aXII\u001a"
+    ],
+    "70539": [
+        "Thunder XVI",
+        "雷電16",
+        "선더 16",
+        "Foudre XVI",
+        "Blitz XVI",
+        "Electro Nv. 16",
+        "Thunder XVI",
+        "Thunder\u001a \u001aXVI\u001a"
+    ],
+    "70540": [
+        "Bubble",
+        "高漲",
+        "버블",
+        "Bulle",
+        "Dubli",
+        "Duplo",
+        "Bubble",
+        "Bubble\u001a"
+    ],
+    "70541": [
+        "Bubble",
+        "高漲",
+        "버블",
+        "Bulle",
+        "Dubli",
+        "Duplo",
+        "Bubble",
+        "Bubble\u001a"
+    ],
+    "70542": [
+        "Barrier",
+        "屏障",
+        "배리어",
+        "Barrière",
+        "Barriere",
+        "Barrera",
+        "Barrier",
+        "บาเรีย\u001a"
+    ],
+    "70543": [
+        "Barrier",
+        "屏障",
+        "배리어",
+        "Barrière",
+        "Barriere",
+        "Barrera",
+        "Barrier",
+        "บาเรีย\u001a"
+    ],
+    "70544": [
+        "Bioga",
+        "劇毒化",
+        "바이오가",
+        "Toxine X",
+        "Bioga",
+        "Bio++",
+        "Bioga",
+        "Bioga\u001a"
+    ],
+    "70545": [
+        "Bioga",
+        "劇毒化",
+        "바이오가",
+        "Toxine X",
+        "Bioga",
+        "Bio++",
+        "Bioga",
+        "Bioga\u001a"
+    ],
+    "70546": [
+        "Bioga",
+        "劇毒化",
+        "바이오가",
+        "Toxine X",
+        "Bioga",
+        "Bio++",
+        "Bioga",
+        "Bioga\u001a"
+    ],
+    "70547": [
+        "Light of Repentance",
+        "懺悔之光",
+        "참회의 빛",
+        "Lueur des regrets",
+        "Licht der Buße",
+        "Luz de arrepentimiento",
+        "Sinar Pengakuan",
+        "แสง\u001aสำนึก\u001aบาป\u001a"
+    ],
+    "70548": [
+        "Silver Hammer",
+        "白銀鐵槌",
+        "백은의 철퇴",
+        "Marteau d'argent",
+        "Silberhammer",
+        "Martillo plateado",
+        "Palu Perak",
+        "ค้อน\u001aเงิน\u001a"
+    ],
+    "70549": [
+        "Firaja",
+        "強火焰",
+        "파이자",
+        "Feu max",
+        "Feuka",
+        "Piro+++",
+        "Firaja",
+        "Firaja\u001a"
+    ],
+    "70550": [
+        "Firaja",
+        "強火焰",
+        "파이자",
+        "Feu max",
+        "Feuka",
+        "Piro+++",
+        "Firaja",
+        "Firaja\u001a"
+    ],
+    "70551": [
+        "Firaja",
+        "強火焰",
+        "파이자",
+        "Feu max",
+        "Feuka",
+        "Piro+++",
+        "Firaja",
+        "Firaja\u001a"
+    ],
+    "70559": [
+        "Imperilga",
+        "廣陷危",
+        "위가",
+        "Vulnérabilité²",
+        "Morbiga",
+        "Aquiles+",
+        "Imperilga",
+        "Imperilga\u001a"
+    ],
+    "91000": [
+        "Regen",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "91001": [
+        "Mortar Beacon",
+        "烽火砲擊",
+        "모르타르 비콘",
+        "Mortier éclaireur",
+        "Mörserfeuer",
+        "Señal de mortero",
+        "Sinyal Mortir",
+        "Mortar\u001a \u001aBeacon\u001a"
+    ],
+    "91002": [
+        "Restorative Breath",
+        "恢復吐息",
+        "회복의 숨결",
+        "Souffle curatif",
+        "Heilatem",
+        "Hálito curativo",
+        "Napas Kesembuhan",
+        "Restorative\u001a \u001aBreath\u001a"
+    ],
+    "91003": [
+        "Firaga",
+        "大火焰",
+        "파이가",
+        "Feu X",
+        "Feuga",
+        "Piro++",
+        "Firaga",
+        "Firaga\u001a"
+    ],
+    "91004": [
+        "Blizzaga",
+        "大暴雪",
+        "블리자가",
+        "Glace X",
+        "Eisga",
+        "Hielo++",
+        "Blizzaga",
+        "Blizzaga\u001a"
+    ],
+    "91005": [
+        "Regen",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "91006": [
+        "Mortar Beacon",
+        "烽火砲擊",
+        "모르타르 비콘",
+        "Mortier éclaireur",
+        "Mörserfeuer",
+        "Señal de mortero",
+        "Sinyal Mortir",
+        "Mortar\u001a \u001aBeacon\u001a"
+    ],
+    "91007": [
+        "Mortar Beacon",
+        "烽火砲擊",
+        "모르타르 비콘",
+        "Mortier éclaireur",
+        "Mörserfeuer",
+        "Señal de mortero",
+        "Sinyal Mortir",
+        "Mortar\u001a \u001aBeacon\u001a"
+    ],
+    "91008": [
+        "Barfiraga",
+        "超抗火",
+        "바파이가",
+        "Anti-Feu X",
+        "Exfeuga",
+        "AntiFuego++",
+        "Barfiraga",
+        "Barfiraga\u001a"
+    ],
+    "91009": [
+        "Barfiraga",
+        "超抗火",
+        "바파이가",
+        "Anti-Feu X",
+        "Exfeuga",
+        "AntiFuego++",
+        "Barfiraga",
+        "Barfiraga\u001a"
+    ],
+    "91010": [
+        "Barblizzaga",
+        "超抗冰",
+        "바블리자가",
+        "Anti-Glace X",
+        "Exeisga",
+        "AntiHielo++",
+        "Barblizzaga",
+        "Barblizzaga\u001a"
+    ],
+    "91011": [
+        "Barblizzaga",
+        "超抗冰",
+        "바블리자가",
+        "Anti-Glace X",
+        "Exeisga",
+        "AntiHielo++",
+        "Barblizzaga",
+        "Barblizzaga\u001a"
+    ],
+    "91012": [
+        "Barthundaga",
+        "超抗雷",
+        "바선더가",
+        "Anti-Foudre X",
+        "Exblitzga",
+        "AntiRayo++",
+        "Barthundaga",
+        "Barthundaga\u001a"
+    ],
+    "91013": [
+        "Barthundaga",
+        "超抗雷",
+        "바선더가",
+        "Anti-Foudre X",
+        "Exblitzga",
+        "AntiRayo++",
+        "Barthundaga",
+        "Barthundaga\u001a"
+    ],
+    "91014": [
+        "Raging Wind",
+        "烈風",
+        "조에어로",
+        "Vent rageur",
+        "Wütende Winde",
+        "Viento furibundo",
+        "Raging Wind",
+        "Raging\u001a \u001aWind\u001a"
+    ],
+    "91015": [
+        "Regen (Nether Warden)",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "91016": [
+        "Regen (Auto)",
+        "再生（自動）",
+        "리제네(AUTO용)",
+        "Récup (auto)",
+        "Regena (auto)",
+        "Revitalia (Auto)",
+        "Regen (Auto)",
+        "Regen\u001a \u001a(\u001aAuto\u001a)\u001a"
+    ],
+    "91017": [
+        "Regen (Auto)",
+        "再生（自動）",
+        "리제네(AUTO용)",
+        "Récup (auto)",
+        "Regena (auto)",
+        "Revitalia (Auto)",
+        "Regen (Auto)",
+        "Regen\u001a \u001a(\u001aAuto\u001a)\u001a"
+    ],
+    "91018": [
+        "Regen (Seasoned Adventurer)",
+        "再生",
+        "리제네",
+        "Récup",
+        "Regena",
+        "Revitalia",
+        "Regen",
+        "Regen\u001a"
+    ],
+    "91019": [
+        "Curaga",
+        "超療傷",
+        "케알가",
+        "Soin Max",
+        "Vitaga",
+        "Cura+++",
+        "Curaga",
+        "Curaga\u001a"
+    ],
+    "91020": [
+        "Curaga",
+        "超療傷",
+        "케알가",
+        "Soin Max",
+        "Vitaga",
+        "Cura+++",
+        "Curaga",
+        "Curaga\u001a"
+    ],
+    "91021": [
+        "Regen (Auto)",
+        "再生（自動）",
+        "리제네(AUTO용)",
+        "Récup (auto)",
+        "Regena (auto)",
+        "Revitalia (Auto)",
+        "Regen (Auto)",
+        "Regen\u001a \u001a(\u001aAuto\u001a)\u001a"
+    ],
+    "91022": [
+        "Regen (Auto)",
+        "再生（自動）",
+        "리제네(AUTO용)",
+        "Récup (auto)",
+        "Regena (auto)",
+        "Revitalia (Auto)",
+        "Regen (Auto)",
+        "Regen\u001a \u001a(\u001aAuto\u001a)\u001a"
+    ],
+    "91023": [
+        "Stonega V",
+        "大落石V",
+        "스톤가V",
+        "OmniTerre V",
+        "Terraga V",
+        "Piedra++ V",
+        "Stonega V",
+        "Stonega\u001a \u001aV\u001a"
+    ],
+    "91024": [
+        "Waterga V",
+        "大流水V",
+        "워터가V",
+        "OmniEau V",
+        "Aquaga V",
+        "Aqua++ V",
+        "Waterga V",
+        "Waterga\u001a \u001aV\u001a"
+    ],
+    "91025": [
+        "Aeroga V",
+        "大勁風V",
+        "에어로가V",
+        "OmniVent V",
+        "Aeroga V",
+        "Aero++ V",
+        "Aeroga V",
+        "Aeroga\u001a \u001aV\u001a"
+    ],
+    "91026": [
+        "Firaga V",
+        "大火焰V",
+        "파이가V",
+        "OmniFeu V",
+        "Feuga V",
+        "Piro++ V",
+        "Firaga V",
+        "Firaga\u001a \u001aV\u001a"
+    ],
+    "91027": [
+        "Blizzaga V",
+        "大暴雪V",
+        "블리자가V",
+        "OmniGlace V",
+        "Eisga V",
+        "Hielo++ V",
+        "Blizzaga V",
+        "Blizzaga\u001a \u001aV\u001a"
+    ],
+    "91028": [
+        "Thundaga V",
+        "大雷電V",
+        "선더가V",
+        "OmniFoudre V",
+        "Blitzga V",
+        "Electro++ V",
+        "Thundaga V",
+        "Thundaga\u001a \u001aV\u001a"
+    ]
+}

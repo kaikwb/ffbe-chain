@@ -1,5 +1,7 @@
 const https = require('https');
 
+const MISMATCH_UNITS = 700000000;
+
 export class JsonService {
     ffbeChainUnits = [];
     families = [];
@@ -24,6 +26,8 @@ export class JsonService {
         summon: {},
         summonAbility: {}
     };
+
+    jpNames = {};
 
     minimumHit = 1;
     imperilsElement = [
@@ -82,7 +86,8 @@ export class JsonService {
     fsSync = require('fs');
     path = require('path');
 
-    constructor() {
+    constructor(useLocalData: boolean) {
+        this.useLocalData = useLocalData;
     }
 
     private httpsRequest(url) {
@@ -106,70 +111,121 @@ export class JsonService {
         });
     }
 
+    private readDataFromFile(fileName) {
+        return this.fsSync.readFileSync(this.path.resolve(__dirname, fileName), 'utf8');
+    }
+
     private getUnits() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe/master/units.json');
+        if (this.useLocalData) {
+            return this.readDataFromFile('data/ffbe-jp/units.json');
+        } else {
+            return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-jp/master/units.json');
+        }
     }
 
     private getAbilitySkills() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe/master/skills_ability.json');
+        if (this.useLocalData) {
+            return this.readDataFromFile('data/ffbe-jp/skills_ability.json');
+        } else {
+            return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-jp/master/skills_ability.json');
+        }
     }
 
     private getMagicSkills() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe/master/skills_magic.json');
+        if (this.useLocalData) {
+            return this.readDataFromFile('data/ffbe-jp/skills_magic.json');
+        } else {
+            return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-jp/master/skills_magic.json');
+        }
     }
 
     private getPassiveSkills() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe/master/skills_passive.json');
+        if (this.useLocalData) {
+            return this.readDataFromFile('data/ffbe-jp/skills_passive.json');
+        } else {
+            return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-jp/master/skills_passive.json');
+        }
     }
 
     private getLBs() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe/master/limitbursts.json');
+        if (this.useLocalData) {
+            return this.readDataFromFile('data/ffbe-jp/limitbursts.json');
+        } else {
+            return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-jp/master/limitbursts.json');
+        }
     }
 
     private getSummons() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe/master/summons.json');
+        if (this.useLocalData) {
+            return this.readDataFromFile('data/ffbe-jp/summons.json');
+        } else {
+            return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-jp/master/summons.json');
+        }
     }
 
     private getUpgrades() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe/master/enhancements.json');
+        if (this.useLocalData) {
+            return this.readDataFromFile('data/ffbe-jp/enhancements.json');
+        } else {
+            return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-jp/master/enhancements.json');
+        }
     }
 
     private getEquipments() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe/master/equipment.json');
+        if (this.useLocalData) {
+            return this.readDataFromFile('data/ffbe-jp/equipment.json');
+        } else {
+            return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-jp/master/equipment.json');
+        }
     }
 
     private getMaterias() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe/master/materia.json');
+        if (this.useLocalData) {
+            return this.readDataFromFile('data/ffbe-jp/materia.json');
+        } else {
+            return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-jp/master/materia.json');
+        }
     }
 
     private getLatentSkills() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe/master/unit_latent_skills.json');
+        // return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe/master/unit_latent_skills.json');
+        // return this.readDataFromFile('data/ffbe/unit_latent_skills.json');
+        return '{}';
     }
 
     private getUnitNames() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-gl-strings/master/MST_UNIT_NAME.json');
+        // return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-gl-strings/master/MST_UNIT_NAME.json');
+        return this.readDataFromFile('data/ffbe-gl-strings/MST_UNIT_NAME.json');
     }
 
     private getAbilityNames() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-gl-strings/master/MST_ABILITY_NAME.json');
+        // return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-gl-strings/master/MST_ABILITY_NAME.json');
+        return this.readDataFromFile('data/ffbe-gl-strings/MST_ABILITY_NAME.json');
     }
 
     private getMagicNames() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-gl-strings/master/MST_MAGIC_NAME.json');
+        // return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-gl-strings/master/MST_MAGIC_NAME.json');
+        return this.readDataFromFile('data/ffbe-gl-strings/MST_MAGIC_NAME.json');
     }
 
     private getLBNames() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-gl-strings/master/MST_LIMITBURST_NAME.json');
+        // return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-gl-strings/master/MST_LIMITBURST_NAME.json');
+        return this.readDataFromFile('data/ffbe-gl-strings/MST_LIMITBURST_NAME.json');
     }
 
     private getSummonNames() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-gl-strings/master/MST_BEAST_NAME.json');
+        // return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-gl-strings/master/MST_BEAST_NAME.json');
+        return this.readDataFromFile('data/ffbe-gl-strings/MST_BEAST_NAME.json');
     }
 
     private getSummonAbilityNames() {
-        return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-gl-strings/master/MST_BEASTSKILL_NAME.json');
+        // return this.httpsRequest('https://raw.githubusercontent.com/aEnigmatic/ffbe-gl-strings/master/MST_BEASTSKILL_NAME.json');
+        return this.readDataFromFile('data/ffbe-gl-strings/MST_BEASTSKILL_NAME.json');
     }
 
+    private getJpNames() {
+        return this.readDataFromFile('data/unit-jp-names.json');
+    }
 
     getJsons(): Promise<any[]> {
         Promise.all([
@@ -189,6 +245,7 @@ export class JsonService {
             this.getLBNames(),
             this.getSummonNames(),
             this.getSummonAbilityNames(),
+            this.getJpNames(),
         ]).then(async responses => {
             this.units = JSON.parse(responses[0]);
             this.abilitySkills = JSON.parse(responses[1]);
@@ -207,6 +264,8 @@ export class JsonService {
             this.names.lb = JSON.parse(responses[13]);
             this.names.summon = JSON.parse(responses[14]);
             this.names.summonAbility = JSON.parse(responses[15]);
+
+            this.jpNames = JSON.parse(responses[16]);
 
             this.formatJsons();
             this.fsSync.writeFileSync(this.path.resolve(__dirname, 'client/app/data/units.ts'), 'export const UNITS: any[] = ' + JSON.stringify(this.ffbeChainUnits, null, 2));
@@ -228,7 +287,7 @@ export class JsonService {
                 });
             }
 
-            if (this.units[unitId].entries) {
+            if (id !== null && this.units[unitId].entries) {
                 if (this.lbs[unitId]) {
                     this.addSkill(id, this.lbs[unitId], unitId, this.units[unitId].rarity_max, 0, true);
                 }
@@ -315,10 +374,14 @@ export class JsonService {
     }
 
     private addUnit(unit) {
-        if (unit.entries && unit.names) {
+        if ((unit.entries && unit.names) || (unit.entries && unit.names === undefined && unit.name)) {
             let entries = Object.keys(unit.entries);
             let id = this.ffbeChainUnits.length;
             let dataId = Number(entries[0]);
+
+            if (dataId >= MISMATCH_UNITS) {
+                return null;
+            }
 
             this.ffbeChainUnits[id] = {
                 dataId: dataId,
@@ -340,7 +403,13 @@ export class JsonService {
                     }
                 });
             } else {
-                this.ffbeChainUnits[id].names.en = unit.name + (BSUnit ? ' (BS)' : '');
+                let name = unit.name;
+
+                if (this.jpNames[dataId]) {
+                    name = this.jpNames[dataId];
+                }
+
+                this.ffbeChainUnits[id].names.en = name + (BSUnit ? ' (BS)' : '');
             }
 
             this.isCollapsed.push(true);
@@ -1311,7 +1380,7 @@ export class JsonService {
             });
         } else {
             if (ability.name) {
-                formattedNames['en'] = ability.name;
+                formattedNames['en'] = lb ? '(LB) ' + ability.name : ability.name;
             }
         }
 
@@ -1644,5 +1713,5 @@ export class JsonService {
     }
 }
 
-const jsonService = new JsonService();
+const jsonService = new JsonService(true);
 jsonService.getJsons();
