@@ -288,8 +288,10 @@ export class JsonService {
             }
 
             if (id !== null && this.units[unitId].entries) {
-                if (this.lbs[unitId]) {
-                    this.addSkill(id, this.lbs[unitId], unitId, this.units[unitId].rarity_max, 0, true);
+                let lb_id = this.units[unitId].entries[unitId].limitburst_id;
+
+                if (this.lbs[lb_id]) {
+                    this.addSkill(id, this.lbs[lb_id], unitId, this.units[unitId].rarity_max, 0, true);
                 }
             }
         });
