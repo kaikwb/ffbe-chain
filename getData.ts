@@ -515,6 +515,11 @@ export class JsonService {
                         find.index = index;
 
                         if (find.type !== 'jump' && find.type !== 'delayAttack' && find.type !== 'dot') {
+                            // TODO: Hotfix for Memories of Departure Rain LB, investigate this in future to a correct solution
+                            if (ability.name === '双醒のブラッド・リンケージ') {
+                                hitEffect = index;
+                            }
+
                             find.hitDamage = ability.attack_damage[countEffects > ability.attack_damage.length ? hitEffect : index];
                             find.frames = ability.attack_frames[countEffects > ability.attack_frames.length ? hitEffect : index];
                             damageEffects.push(find);
