@@ -515,8 +515,14 @@ export class JsonService {
                         find.index = index;
 
                         if (find.type !== 'jump' && find.type !== 'delayAttack' && find.type !== 'dot') {
-                            // TODO: Hotfix for Memories of Departure Rain LB, investigate this in future to a correct solution
-                            if (ability.name === '双醒のブラッド・リンケージ') {
+                            // TODO: Hotfix for Memories of Departure Rain, Light that Weaves Bonds Fina, Rising Star of Hope Roca and
+                            // Origin of Awakening Taivas LB, investigate this in future to a correct solution
+                            if (
+                                ability.name === '双醒のブラッド・リンケージ' || // Memories of Departure Rain
+                                ability.name === 'セルリアンジャッジメント' ||  // Light that Weaves Bonds Fina
+                                ability.name === 'クロノアステール' ||      // Rising Star of Hope Roca
+                                ability.name === '戦場のダイナミックデュオ'     // Origin of Awakening Taivas
+                            ) {
                                 hitEffect = index;
                             }
 
